@@ -1,0 +1,1461 @@
+23:29:12.617 |V| EnvironmentVariablesUtil      | :1                 | Reading environment variable JET_TEMP_DIR (no PID suffix).
+23:29:12.617 |V| EnvironmentVariablesUtil      | :1                 | The environment variable JET_TEMP_DIR (no PID suffix) has the value C:\Users\matthias.koch\.Rider2018.2\system\resharper-host\temp.
+23:29:12.617 |V| EnvironmentVariablesUtil      | :1                 | Reading environment variable JET_TEMP_DIR_PID_000055E4 (PID-specific).
+23:29:12.617 |V| EnvironmentVariablesUtil      | :1                 | The environment variable JET_TEMP_DIR_PID_000055E4 (PID-specific) has no value.
+23:29:12.617 |V| EnvironmentVariablesUtil      | :1                 | Only one environment variable is set, no conflict, using its value for additional packages.
+23:29:12.680 |V| EnvironmentVariablesUtil      | :1                 | Reading environment variable JET_ADDITIONAL_DEPLOYED_PACKAGES (no PID suffix).
+23:29:12.680 |V| EnvironmentVariablesUtil      | :1                 | The environment variable JET_ADDITIONAL_DEPLOYED_PACKAGES (no PID suffix) has the value “<Packages><File Path="C:\Users\matthias.koch\.Rider2018.2\config\plugins\heap-allocations-viewer\ReSharper.HeapView.Wave182.1.2.7.nupkg"></File><Folder Path="C:\Users\matthias.koch\AppData\Local\JetBrains\Toolbox\apps\Rider\ch-0\182.3944.254\plugins\dotCommon\DotFiles"></Folder><Folder Path="C:\Users\matthias.koch\AppData\Local\JetBrains\Toolbox\apps\Rider\ch-0\182.3944.254\plugins\dotCover\DotFiles"></Folder><AdHocMetadata BaseDir="C:\Users\matthias.koch\AppData\Local\JetBrains\Toolbox\apps\Rider\ch-0\182.3944.254\plugins\rider-fsharp\dotnet" Version="2018.2.24" BuiltOn="2018-08-02T16:25:48Z" CompanyNameHuman="JetBrains" SubplatformName="plugin_com_jetbrains_rider_fsharp"><PackageFile RelativePath="Fantomas.dll" AssemblyName="*"></PackageFile><PackageFile RelativePath="FSharp.Compiler.Service.dll" AssemblyName="*"></PackageFile><PackageFile RelativePath="FSharp.Core.dll" AssemblyName="*"></PackageFile><PackageFile RelativePath="JetBrains.ReSharper.Plugins.FSharp.Common.dll" AssemblyName="*"></PackageFile><PackageFile RelativePath="JetBrains.ReSharper.Plugins.FSharp.Daemon.Cs.dll" AssemblyName="*"></PackageFile><PackageFile RelativePath="JetBrains.ReSharper.Plugins.FSharp.ProjectModelBase.dll" AssemblyName="*"></PackageFile><PackageFile RelativePath="JetBrains.ReSharper.Plugins.FSharp.Psi.dll" AssemblyName="*"></PackageFile><PackageFile RelativePath="JetBrains.ReSharper.Plugins.FSharp.Psi.Features.dll" AssemblyName="*"></PackageFile><PackageFile RelativePath="JetBrains.ReSharper.Plugins.FSharp.Services.Cs.dll" AssemblyName="*"></PackageFile><PackageFile RelativePath="JetBrains.ReSharper.Plugins.FSharp.Templates.dll" AssemblyName="*"></PackageFile></AdHocMetadata><AdHocMetadata BaseDir="C:\Users\matthias.koch\AppData\Local\JetBrains\Toolbox\apps\Rider\ch-0\182.3944.254\plugins\rider-unity\dotnet" Version="2018.2.0.24" BuiltOn="2018-08-02T16:25:48Z" CompanyNameHuman="JetBrains" SubplatformName="plugin_com_intellij_resharper_unity"><PackageFile RelativePath="JetBrains.ReSharper.Plugins.Unity.dll" AssemblyName="*"></PackageFile></AdHocMetadata></Packages>”.
+23:29:12.680 |V| EnvironmentVariablesUtil      | :1                 | Reading environment variable JET_ADDITIONAL_DEPLOYED_PACKAGES_PID_000055E4 (PID-specific).
+23:29:12.680 |V| EnvironmentVariablesUtil      | :1                 | The environment variable JET_ADDITIONAL_DEPLOYED_PACKAGES_PID_000055E4 (PID-specific) has no value.
+23:29:12.680 |V| EnvironmentVariablesUtil      | :1                 | Only one environment variable is set, no conflict, using its value for additional packages.
+23:29:12.883 |V| AppDomainAssembliesResolver   | :1                 | << (Opening) AppDomainAssembliesResolver
+23:29:13.063 |V| EnvironmentVariablesUtil      | :1                 | Reading environment variable JET_ROAMING_APPDATA_DIR (no PID suffix).
+23:29:13.063 |V| EnvironmentVariablesUtil      | :1                 | The environment variable JET_ROAMING_APPDATA_DIR (no PID suffix) has the value C:\Users\matthias.koch\.Rider2018.2\system\resharper-host\roaming.
+23:29:13.063 |V| EnvironmentVariablesUtil      | :1                 | Reading environment variable JET_ROAMING_APPDATA_DIR_PID_000055E4 (PID-specific).
+23:29:13.063 |V| EnvironmentVariablesUtil      | :1                 | The environment variable JET_ROAMING_APPDATA_DIR_PID_000055E4 (PID-specific) has no value.
+23:29:13.063 |V| EnvironmentVariablesUtil      | :1                 | Only one environment variable is set, no conflict, using its value for additional packages.
+23:29:13.081 |V| JetDispatcher                 | StaExecutor:10     | Thread StaExecutor:10 pwned.
+23:29:13.081 |V| JetDispatcher                 | StaExecutor:10     | Thread StaExecutor:10 created an Avalon marshaller.
+23:29:13.525 |V| JetDispatcher                 | FileSystemTrackerCommit:25 | Thread FileSystemTrackerCommit:25 pwned.
+23:29:13.525 |V| JetDispatcher                 | FileSystemTrackerCommit:25 | Thread FileSystemTrackerCommit:25 created an Avalon marshaller.
+23:29:13.525 |V| JetDispatcher                 | StaExecutor:27     | Thread StaExecutor:27 pwned.
+23:29:13.525 |V| JetDispatcher                 | StaExecutor:27     | Thread StaExecutor:27 created an Avalon marshaller.
+23:29:13.865 |V| ClientSocket-MainWire-Sender  | :1                 | Pausing, reason=Disconnected, state=Initialized
+23:29:13.869 |V| Client                        | ClientSocket-MainWire-Receiver:29 | ClientSocket-MainWire : started
+23:29:13.869 |V| Client                        | ClientSocket-MainWire-Receiver:29 | ClientSocket-MainWire : connecting
+23:29:13.869 |V| Client                        | ClientSocket-MainWire-Receiver:29 | ClientSocket-MainWire : connected
+23:29:13.872 |V| ClientSocket-MainWire-Sender  | ClientSocket-MainWire-Receiver:29 | Resuming reason=Disconnected(present=True), state=AsyncProcessing, unpaused=True
+23:29:14.293 |V|                               | :1                 | AttachByMessageBoxListener
+23:29:14.293 |V|                               | :1                 | EnvironmentVariables for process “” with arguments >>><<< under workding directory “”
+EnvironmentVariable 'ALLUSERSPROFILE' = 'C:\ProgramData'
+EnvironmentVariable 'APPDATA' = 'C:\Users\matthias.koch\AppData\Roaming'
+EnvironmentVariable 'ChocolateyInstall' = 'C:\ProgramData\chocolatey'
+EnvironmentVariable 'ChocolateyLastPathUpdate' = 'Tue Aug  7 16:08:59 2018'
+EnvironmentVariable 'ChocolateyToolsLocation' = 'C:\tools'
+EnvironmentVariable 'CLIENTNAME' = 'dawg.local'
+EnvironmentVariable 'CommonProgramFiles' = 'C:\Program Files\Common Files'
+EnvironmentVariable 'CommonProgramFiles(x86)' = 'C:\Program Files (x86)\Common Files'
+EnvironmentVariable 'CommonProgramW6432' = 'C:\Program Files\Common Files'
+EnvironmentVariable 'COMPUTERNAME' = 'MUNIT-229'
+EnvironmentVariable 'ComSpec' = 'C:\Windows\system32\cmd.exe'
+EnvironmentVariable 'DOTCOVER_ADDITIONAL_PROBING_PATHS' = 'C:\Users\matthias.koch\AppData\Local\JetBrains\Toolbox\apps\Rider\ch-0\182.3944.254\lib\ReSharperHost;C:\Users\matthias.koch\AppData\Local\JetBrains\Toolbox\apps\Rider\ch-0\182.3944.254\plugins\rider-unity\dotnet;C:\Users\matthias.koch\AppData\Local\JetBrains\Toolbox\apps\Rider\ch-0\182.3944.254\plugins\rider-fsharp\dotnet;C:\Users\matthias.koch\AppData\Local\JetBrains\Toolbox\apps\Rider\ch-0\182.3944.254\plugins\dotCommon\DotFiles;C:\Users\matthias.koch\AppData\Local\JetBrains\Toolbox\apps\Rider\ch-0\182.3944.254\plugins\dotCover\DotFiles'
+EnvironmentVariable 'DriverData' = 'C:\Windows\System32\Drivers\DriverData'
+EnvironmentVariable 'FSHARPINSTALLDIR' = 'C:\Program Files (x86)\Microsoft SDKs\F#\10.1\Framework\v4.0\'
+EnvironmentVariable 'HOMEDRIVE' = 'C:'
+EnvironmentVariable 'HOMEPATH' = '\Users\matthias.koch'
+EnvironmentVariable 'JAVA_HOME' = 'C:\Program Files (x86)\Java\jdk1.8.0_181'
+EnvironmentVariable 'JET_ADDITIONAL_DEPLOYED_PACKAGES_PID_000055E4' = '<Packages><File Path="C:\Users\matthias.koch\.Rider2018.2\config\plugins\heap-allocations-viewer\ReSharper.HeapView.Wave182.1.2.7.nupkg"></File><Folder Path="C:\Users\matthias.koch\AppData\Local\JetBrains\Toolbox\apps\Rider\ch-0\182.3944.254\plugins\dotCommon\DotFiles"></Folder><Folder Path="C:\Users\matthias.koch\AppData\Local\JetBrains\Toolbox\apps\Rider\ch-0\182.3944.254\plugins\dotCover\DotFiles"></Folder><AdHocMetadata BaseDir="C:\Users\matthias.koch\AppData\Local\JetBrains\Toolbox\apps\Rider\ch-0\182.3944.254\plugins\rider-fsharp\dotnet" Version="2018.2.24" BuiltOn="2018-08-02T16:25:48Z" CompanyNameHuman="JetBrains" SubplatformName="plugin_com_jetbrains_rider_fsharp"><PackageFile RelativePath="Fantomas.dll" AssemblyName="*"></PackageFile><PackageFile RelativePath="FSharp.Compiler.Service.dll" AssemblyName="*"></PackageFile><PackageFile RelativePath="FSharp.Core.dll" AssemblyName="*"></PackageFile><PackageFile RelativePath="JetBrains.ReSharper.Plugins.FSharp.Common.dll" AssemblyName="*"></PackageFile><PackageFile RelativePath="JetBrains.ReSharper.Plugins.FSharp.Daemon.Cs.dll" AssemblyName="*"></PackageFile><PackageFile RelativePath="JetBrains.ReSharper.Plugins.FSharp.ProjectModelBase.dll" AssemblyName="*"></PackageFile><PackageFile RelativePath="JetBrains.ReSharper.Plugins.FSharp.Psi.dll" AssemblyName="*"></PackageFile><PackageFile RelativePath="JetBrains.ReSharper.Plugins.FSharp.Psi.Features.dll" AssemblyName="*"></PackageFile><PackageFile RelativePath="JetBrains.ReSharper.Plugins.FSharp.Services.Cs.dll" AssemblyName="*"></PackageFile><PackageFile RelativePath="JetBrains.ReSharper.Plugins.FSharp.Templates.dll" AssemblyName="*"></PackageFile></AdHocMetadata><AdHocMetadata BaseDir="C:\Users\matthias.koch\AppData\Local\JetBrains\Toolbox\apps\Rider\ch-0\182.3944.254\plugins\rider-unity\dotnet" Version="2018.2.0.24" BuiltOn="2018-08-02T16:25:48Z" CompanyNameHuman="JetBrains" SubplatformName="plugin_com_intellij_resharper_unity"><PackageFile RelativePath="JetBrains.ReSharper.Plugins.Unity.dll" AssemblyName="*"></PackageFile></AdHocMetadata></Packages>'
+EnvironmentVariable 'JET_LOCAL_APPDATA_DIR' = 'C:\Users\matthias.koch\.Rider2018.2\system\resharper-host\local'
+EnvironmentVariable 'JET_ROAMING_APPDATA_DIR_PID_000055E4' = 'C:\Users\matthias.koch\.Rider2018.2\system\resharper-host\roaming'
+EnvironmentVariable 'JET_TEMP_DIR_PID_000055E4' = 'C:\Users\matthias.koch\.Rider2018.2\system\resharper-host\temp'
+EnvironmentVariable 'LOCALAPPDATA' = 'C:\Users\matthias.koch\AppData\Local'
+EnvironmentVariable 'LOGONSERVER' = '\\MUCDC'
+EnvironmentVariable 'NUMBER_OF_PROCESSORS' = '12'
+EnvironmentVariable 'OneDrive' = 'C:\Users\matthias.koch\OneDrive'
+EnvironmentVariable 'OS' = 'Windows_NT'
+EnvironmentVariable 'Path' = 'C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\GitExtensions\;C:\Program Files (x86)\dotnet\;C:\Users\matthias.koch\AppData\Local\Microsoft\WindowsApps;C:\Users\matthias.koch\.dotnet\tools'
+EnvironmentVariable 'PATHEXT' = '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+EnvironmentVariable 'PROCESSOR_ARCHITECTURE' = 'AMD64'
+EnvironmentVariable 'PROCESSOR_IDENTIFIER' = 'Intel64 Family 6 Model 158 Stepping 10, GenuineIntel'
+EnvironmentVariable 'PROCESSOR_LEVEL' = '6'
+EnvironmentVariable 'PROCESSOR_REVISION' = '9e0a'
+EnvironmentVariable 'ProgramData' = 'C:\ProgramData'
+EnvironmentVariable 'ProgramFiles' = 'C:\Program Files'
+EnvironmentVariable 'ProgramFiles(x86)' = 'C:\Program Files (x86)'
+EnvironmentVariable 'ProgramW6432' = 'C:\Program Files'
+EnvironmentVariable 'PSModulePath' = '%ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules'
+EnvironmentVariable 'PUBLIC' = 'C:\Users\Public'
+EnvironmentVariable 'RESHARPER_HOST_CONFIG_DIR' = 'C:\Users\matthias.koch\.Rider2018.2\config\resharper-host'
+EnvironmentVariable 'RESHARPER_HOST_LOG_DIR' = 'C:\Users\matthias.koch\.Rider2018.2\system\log'
+EnvironmentVariable 'RESHARPER_HOST_PARENT_PROCESS_PID' = '19316'
+EnvironmentVariable 'RESHARPER_LOG_CONF' = 'C:\Users\matthias.koch\AppData\Local\JetBrains\Toolbox\apps\Rider\ch-0\182.3944.254\bin\backend-log.xml'
+EnvironmentVariable 'SESSIONNAME' = 'Console'
+EnvironmentVariable 'SystemDrive' = 'C:'
+EnvironmentVariable 'SystemRoot' = 'C:\Windows'
+EnvironmentVariable 'TEMP' = 'C:\Users\MATTHI~1.KOC\AppData\Local\Temp'
+EnvironmentVariable 'TMP' = 'C:\Users\MATTHI~1.KOC\AppData\Local\Temp'
+EnvironmentVariable 'TOOLBOX_VERSION' = '1.10.4088'
+EnvironmentVariable 'USERDNSDOMAIN' = 'LABS.INTELLIJ.NET'
+EnvironmentVariable 'USERDOMAIN' = 'LABS'
+EnvironmentVariable 'USERDOMAIN_ROAMINGPROFILE' = 'LABS'
+EnvironmentVariable 'USERNAME' = 'Matthias.Koch'
+EnvironmentVariable 'USERPROFILE' = 'C:\Users\matthias.koch'
+EnvironmentVariable 'windir' = 'C:\Windows'
+
+23:29:14.450 |V| EnvironmentVariablesUtil      | :1                 | Reading environment variable ResetGlobalPerProductLayer (no PID suffix).
+23:29:14.450 |V| EnvironmentVariablesUtil      | :1                 | The environment variable ResetGlobalPerProductLayer (no PID suffix) has no value.
+23:29:14.450 |V| EnvironmentVariablesUtil      | :1                 | Reading environment variable ResetGlobalPerProductLayer_PID_000055E4 (PID-specific).
+23:29:14.450 |V| EnvironmentVariablesUtil      | :1                 | The environment variable ResetGlobalPerProductLayer_PID_000055E4 (PID-specific) has no value.
+23:29:14.450 |V| EnvironmentVariablesUtil      | :1                 | No environment variables for additional packages are set.
+23:29:14.711 |V| UsageDbManager                | :1                 | STV.Started `UsageDbManager` in separate thread
+23:29:14.727 |V| ActivityLogsSubmitter         | :1                 | STV.Started `ActivityLogsSubmitter` in separate thread
+23:29:14.780 |V| LevelDbAutocommitTransaction  | UsageDbManager:30  | STV.Started `LevelDbAutocommitTransaction` in separate thread
+23:29:14.989 |V| RiderApplicationRuntime       | :1                 | Mono path in settings not found try to fallback to first detected mono runtime
+23:29:14.989 |V| EnvMonoPathProvider           | :1                 | Mono in path not found
+23:29:15.004 |V| RiderApplicationRuntime       | :1                 | Load mono runtime: RootPath: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge, ExePath: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\bin\mono.exe from settings
+23:29:15.004 |V| RiderApplicationRuntime       | :1                 | .NET CLI path in settings not found try to fallback to first detected .NET CLI runtime
+23:29:15.004 |V| RiderApplicationRuntime       | :1                 | Load .NET CLI runtime: C:\Program Files\dotnet from settings
+23:29:15.004 |V| EnvironmentVariablesUtil      | :1                 | Reading environment variable JET_LOCAL_APPDATA_DIR (no PID suffix).
+23:29:15.004 |V| EnvironmentVariablesUtil      | :1                 | The environment variable JET_LOCAL_APPDATA_DIR (no PID suffix) has the value C:\Users\matthias.koch\.Rider2018.2\system\resharper-host\local.
+23:29:15.004 |V| EnvironmentVariablesUtil      | :1                 | Reading environment variable JET_LOCAL_APPDATA_DIR_PID_000055E4 (PID-specific).
+23:29:15.004 |V| EnvironmentVariablesUtil      | :1                 | The environment variable JET_LOCAL_APPDATA_DIR_PID_000055E4 (PID-specific) has no value.
+23:29:15.004 |V| EnvironmentVariablesUtil      | :1                 | Only one environment variable is set, no conflict, using its value for additional packages.
+23:29:15.036 |V| LevelDbAutocommitTransaction  | :1                 | STV.Started `LevelDbAutocommitTransaction` in separate thread
+23:29:15.929 |V|                               | :1                 | [PT] Language CPP is unknown for key => key.AnalysisFileSizeThreshold
+23:29:15.929 |V|                               | :1                 | [PT] Language CPP_DOXYGEN is unknown for key => key.AnalysisFileSizeThreshold
+23:29:16.007 |W| NuGetExternalAnnotationsFileProvider| :1                 | No JetBrains.ExternalAnnotations packages found in the host ReSharperHost182
+23:29:17.414 |V|                               | :1                 | STV.Started `TaskProcessor for unit test tasks.` in separate thread
+23:29:17.445 |V| RiderApplicationRuntime       | :1                 | Mono path in settings not found try to fallback to first detected mono runtime
+23:29:17.445 |V| EnvMonoPathProvider           | :1                 | Mono in path not found
+23:29:17.460 |V| RiderApplicationRuntime       | :1                 | Load mono runtime: RootPath: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge, ExePath: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\bin\mono.exe from settings
+23:29:17.460 |V| RiderApplicationRuntime       | :1                 | .NET CLI path in settings not found try to fallback to first detected .NET CLI runtime
+23:29:17.460 |V| RiderApplicationRuntime       | :1                 | Load .NET CLI runtime: C:\Program Files\dotnet from settings
+23:29:17.460 |V| RiderBuildToolContainerWarmUp | JetPool(S) #1:11   | WarmUp BuildToolContainer
+23:29:17.460 |V| BuildToolContainer            | JetPool(S) #1:11   | Start build tool discovering in environment: AutoDetectorInfo: null, MonoRootPath: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge, ActiveDotNetCoreCli: Cli: .NET CLI[	
+SdksFolder: C:\Program Files\dotnet\sdk,
+	ExePath: C:\Program Files\dotnet\dotnet.exe
+	InstalationFolder: C:\Program Files\dotnet
+	Sdks: [2.1.202, 2.1.302]],
+Sdk: 2.1.302
+23:29:17.460 |V| RegistryMsBuildToolProvider   | JetPool(S) #1:11   | Start build tool discover int registry: SOFTWARE\WOW6432Node\Microsoft\MSBuild\ToolsVersions
+23:29:17.460 |V| RegistryMsBuildToolProvider   | JetPool(S) #1:11   | Try to discover xBuild from registry key: 2.0
+23:29:17.460 |V| RegistryMsBuildToolProvider   | JetPool(S) #1:11   | Try to discover xBuild from registry key: 3.5
+23:29:17.460 |V| RegistryMsBuildToolProvider   | JetPool(S) #1:11   | Try to discover xBuild from registry key: 4.0
+23:29:17.460 |V| RegistryMsBuildToolProvider   | JetPool(S) #1:11   | Found MSBuild: C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe
+23:29:17.460 |V| VisualStudio15MsBuildToolProvider| JetPool(S) #1:11   | Try to discover MSBuild in installed VS15
+23:29:17.476 |V| DevenvHostDiscovery           | JetPool(S) #1:11   | Enumerating installed VS versions the classic machine way.
+23:29:17.476 |V| DevenvHostDiscovery           | JetPool(S) #1:11   | VS 10.0 has related keys but no installdir in the Registry.
+23:29:17.476 |V| DevenvHostDiscovery           | JetPool(S) #1:11   | VS 12.0 has related keys but no installdir in the Registry.
+23:29:17.476 |V| DevenvHostDiscovery           | JetPool(S) #1:11   | VS 14.0 has related keys but no installdir in the Registry.
+23:29:17.476 |V| DevenvHostDiscovery           | JetPool(S) #1:11   | Skipping discovered classic VS version 15.0 because it's not whitelisted.
+23:29:17.476 |V| DevenvHostDiscovery           | JetPool(S) #1:11   | VS 8.0 has related keys but no installdir in the Registry.
+23:29:17.476 |V| DevenvHostDiscovery           | JetPool(S) #1:11   | Attempting to create an instance of the VS Setup Configuration interface.
+23:29:17.476 |V| DevenvHostDiscovery           | JetPool(S) #1:11   | Successfully created an instance of the VS Setup Configuration interface.
+23:29:17.476 |V| DevenvHostDiscovery           | JetPool(S) #1:11   | Enumerating complete VS Product Instances.
+23:29:17.476 |V| DevenvHostDiscovery           | JetPool(S) #1:11   | Done with enumerating complete VS Product Instances.
+23:29:17.476 |V| DevenvHostDiscovery           | JetPool(S) #1:11   | Enumerating all VS Product Instances.
+23:29:17.492 |V| DevenvHostDiscovery           | JetPool(S) #1:11   | Done with enumerating all VS Product Instances.
+23:29:17.492 |V| DevenvHostDiscovery           | JetPool(S) #1:11   | InstalledVs 15.0_bd617ca9 Incomplete=False InstallDir “C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE” ver 15.7.27703.2047 aka VS2017 aka “Visual Studio Professional 2017” packages [<NULL>].
+23:29:17.492 |V| VisualStudio15MsBuildToolProvider| JetPool(S) #1:11   | Try to discover MSBuild in folder: VS 15.0_bd617ca9 @ “C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE”
+23:29:17.492 |V| VisualStudio15MsBuildToolProvider| JetPool(S) #1:11   | Found MSBuild: C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\MSBuild\15.0\Bin\MSBuild.exe
+23:29:17.492 |V| DotNetCoreMsBuildProvider     | JetPool(S) #1:11   | Found MSBuild in SDK: C:\Program Files\dotnet\sdk\2.1.302\MSBuild.dll
+23:29:17.492 |V| MonoXBuildToolProvider        | JetPool(S) #1:11   | Skip build tool discover on Windows.
+23:29:17.492 |V| BuildToolContainer            | JetPool(S) #1:11   | Dicover found 3 build tools
+23:29:17.492 |V| BuildToolContainer            | JetPool(S) #1:11   | Discovered build tool:
+Type: JetBrains.ProjectModel.MSBuild.BuildTools.MsBuildTool
+Version: 4.0
+Directory: C:\Windows\Microsoft.NET\Framework\v4.0.30319
+ExePath: C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe
+EnvironmentVariables:
+	MSBuildSDKsPath=C:\Program Files\dotnet\sdk\2.1.302\Sdks\
+UseTaskEntryPointForRun: False
+WellKnownProperties has not been loaded yet.
+
+23:29:17.492 |V| BuildToolContainer            | JetPool(S) #1:11   | Discovered build tool:
+Type: JetBrains.ProjectModel.MSBuild.BuildTools.MsBuildTool
+Version: 15.0
+Directory: C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\MSBuild\15.0\Bin
+ExePath: C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\MSBuild\15.0\Bin\MSBuild.exe
+EnvironmentVariables:
+	DOTNET_MSBUILD_SDK_RESOLVER_CLI_DIR=C:\Program Files\dotnet
+	MONO_ANDROID_PATH=C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\MSBuild\Xamarin\Android
+UseTaskEntryPointForRun: False
+WellKnownProperties has not been loaded yet.
+
+23:29:17.492 |V| BuildToolContainer            | JetPool(S) #1:11   | Discovered build tool:
+Type: JetBrains.ReSharper.Host.Features.Toolset.DotNetCoreMsBuild
+Version: 15.0
+Directory: C:\Program Files\dotnet\sdk\2.1.302
+ExePath: C:\Program Files\dotnet\sdk\2.1.302\MSBuild.dll
+EnvironmentVariables:
+	MSBuildExtensionsPath=C:\Program Files\dotnet\sdk\2.1.302
+	DOTNET_HOST_PATH=C:\Program Files\dotnet\dotnet.exe
+	MSBuildSDKsPath=C:\Program Files\dotnet\sdk\2.1.302\Sdks
+UseTaskEntryPointForRun: False
+WellKnownProperties has not been loaded yet.
+
+23:29:17.538 |I| RiderSolutionWatcher          | :1                 | Open solution 'C:\code\RiderDemo\RiderDemo.sln'
+23:29:17.554 |I| RiderSolutionWatcher          | :1                 | Set HasBackedSolution = true
+23:29:17.554 |V| RiderSolutionManager          | :1                 | Open solution 'RiderDemo'
+23:29:17.570 |V| RiderSolutionManager          | :1                 | Prepare solution 'RiderDemo'
+23:29:17.570 |V| RiderSolutionManager          | :1                 | Create SolutionInstance for 'RiderDemo'
+23:29:17.601 |V| RiderApplicationRuntime       | :1                 | Mono path in settings not found try to fallback to first detected mono runtime
+23:29:17.601 |V| EnvMonoPathProvider           | :1                 | Mono in path not found
+23:29:17.601 |V| RiderApplicationRuntime       | :1                 | Load mono runtime: RootPath: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge, ExePath: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\bin\mono.exe from settings
+23:29:17.601 |V| RiderApplicationRuntime       | :1                 | .NET CLI path in settings not found try to fallback to first detected .NET CLI runtime
+23:29:17.601 |V| RiderApplicationRuntime       | :1                 | Load .NET CLI runtime: C:\Program Files\dotnet from settings
+23:29:17.601 |V| BuildToolContainer            | :1                 | GetBuildToolBySettings msBuildVersion=4294967293, customBuildToolPath=<EMPTY>, env=AutoDetectorInfo: RiderDemo, MonoRootPath: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge, ActiveDotNetCoreCli: Cli: .NET CLI[	
+SdksFolder: C:\Program Files\dotnet\sdk,
+	ExePath: C:\Program Files\dotnet\dotnet.exe
+	InstalationFolder: C:\Program Files\dotnet
+	Sdks: [2.1.202, 2.1.302]],
+Sdk: 2.1.302
+23:29:17.601 |V| BuildToolContainer            | :1                 | Use auto-detected toolset
+23:29:17.601 |V| BuildToolContainer            | :1                 | Autodetect: run auto detector
+23:29:17.601 |V| BuildToolContainer            | :1                 | Start build tool discovering in environment: AutoDetectorInfo: RiderDemo, MonoRootPath: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge, ActiveDotNetCoreCli: Cli: .NET CLI[	
+SdksFolder: C:\Program Files\dotnet\sdk,
+	ExePath: C:\Program Files\dotnet\dotnet.exe
+	InstalationFolder: C:\Program Files\dotnet
+	Sdks: [2.1.202, 2.1.302]],
+Sdk: 2.1.302
+23:29:17.601 |V| RegistryMsBuildToolProvider   | :1                 | Start build tool discover int registry: SOFTWARE\WOW6432Node\Microsoft\MSBuild\ToolsVersions
+23:29:17.601 |V| RegistryMsBuildToolProvider   | :1                 | Try to discover xBuild from registry key: 2.0
+23:29:17.601 |V| RegistryMsBuildToolProvider   | :1                 | Try to discover xBuild from registry key: 3.5
+23:29:17.601 |V| RegistryMsBuildToolProvider   | :1                 | Try to discover xBuild from registry key: 4.0
+23:29:17.601 |V| RegistryMsBuildToolProvider   | :1                 | Found MSBuild: C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe
+23:29:17.601 |V| VisualStudio15MsBuildToolProvider| :1                 | Try to discover MSBuild in installed VS15
+23:29:17.601 |V| DevenvHostDiscovery           | :1                 | Enumerating installed VS versions the classic machine way.
+23:29:17.601 |V| DevenvHostDiscovery           | :1                 | VS 10.0 has related keys but no installdir in the Registry.
+23:29:17.601 |V| DevenvHostDiscovery           | :1                 | VS 12.0 has related keys but no installdir in the Registry.
+23:29:17.601 |V| DevenvHostDiscovery           | :1                 | VS 14.0 has related keys but no installdir in the Registry.
+23:29:17.601 |V| DevenvHostDiscovery           | :1                 | Skipping discovered classic VS version 15.0 because it's not whitelisted.
+23:29:17.601 |V| DevenvHostDiscovery           | :1                 | VS 8.0 has related keys but no installdir in the Registry.
+23:29:17.601 |V| DevenvHostDiscovery           | :1                 | Attempting to create an instance of the VS Setup Configuration interface.
+23:29:17.601 |V| DevenvHostDiscovery           | :1                 | Successfully created an instance of the VS Setup Configuration interface.
+23:29:17.601 |V| DevenvHostDiscovery           | :1                 | Enumerating complete VS Product Instances.
+23:29:17.601 |V| DevenvHostDiscovery           | :1                 | Done with enumerating complete VS Product Instances.
+23:29:17.601 |V| DevenvHostDiscovery           | :1                 | Enumerating all VS Product Instances.
+23:29:17.601 |V| DevenvHostDiscovery           | :1                 | Done with enumerating all VS Product Instances.
+23:29:17.601 |V| DevenvHostDiscovery           | :1                 | InstalledVs 15.0_bd617ca9 Incomplete=False InstallDir “C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE” ver 15.7.27703.2047 aka VS2017 aka “Visual Studio Professional 2017” packages [<NULL>].
+23:29:17.601 |V| VisualStudio15MsBuildToolProvider| :1                 | Try to discover MSBuild in folder: VS 15.0_bd617ca9 @ “C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE”
+23:29:17.601 |V| VisualStudio15MsBuildToolProvider| :1                 | Found MSBuild: C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\MSBuild\15.0\Bin\MSBuild.exe
+23:29:17.617 |V| DotNetCoreMsBuildProvider     | :1                 | Found MSBuild in SDK: C:\Program Files\dotnet\sdk\2.1.302\MSBuild.dll
+23:29:17.617 |V| MonoXBuildToolProvider        | :1                 | Skip build tool discover on Windows.
+23:29:17.617 |V| BuildToolContainer            | :1                 | Dicover found 3 build tools
+23:29:17.617 |V| BuildToolContainer            | :1                 | Discovered build tool:
+Type: JetBrains.ProjectModel.MSBuild.BuildTools.MsBuildTool
+Version: 4.0
+Directory: C:\Windows\Microsoft.NET\Framework\v4.0.30319
+ExePath: C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe
+EnvironmentVariables:
+	MSBuildSDKsPath=C:\Program Files\dotnet\sdk\2.1.302\Sdks\
+UseTaskEntryPointForRun: False
+WellKnownProperties has not been loaded yet.
+
+23:29:17.617 |V| BuildToolContainer            | :1                 | Discovered build tool:
+Type: JetBrains.ProjectModel.MSBuild.BuildTools.MsBuildTool
+Version: 15.0
+Directory: C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\MSBuild\15.0\Bin
+ExePath: C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\MSBuild\15.0\Bin\MSBuild.exe
+EnvironmentVariables:
+	DOTNET_MSBUILD_SDK_RESOLVER_CLI_DIR=C:\Program Files\dotnet
+	MONO_ANDROID_PATH=C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\MSBuild\Xamarin\Android
+UseTaskEntryPointForRun: False
+WellKnownProperties has not been loaded yet.
+
+23:29:17.617 |V| BuildToolContainer            | :1                 | Discovered build tool:
+Type: JetBrains.ReSharper.Host.Features.Toolset.DotNetCoreMsBuild
+Version: 15.0
+Directory: C:\Program Files\dotnet\sdk\2.1.302
+ExePath: C:\Program Files\dotnet\sdk\2.1.302\MSBuild.dll
+EnvironmentVariables:
+	MSBuildExtensionsPath=C:\Program Files\dotnet\sdk\2.1.302
+	DOTNET_HOST_PATH=C:\Program Files\dotnet\dotnet.exe
+	MSBuildSDKsPath=C:\Program Files\dotnet\sdk\2.1.302\Sdks
+UseTaskEntryPointForRun: False
+WellKnownProperties has not been loaded yet.
+
+23:29:17.632 |V| RiderSolutionToolset          | :1                 | Setup toolset CurrentBuildTool[Type: JetBrains.ReSharper.Host.Features.Toolset.DotNetCoreMsBuild
+Version: 15.0
+Directory: C:\Program Files\dotnet\sdk\2.1.302
+ExePath: C:\Program Files\dotnet\sdk\2.1.302\MSBuild.dll
+EnvironmentVariables:
+	MSBuildExtensionsPath=C:\Program Files\dotnet\sdk\2.1.302
+	DOTNET_HOST_PATH=C:\Program Files\dotnet\dotnet.exe
+	MSBuildSDKsPath=C:\Program Files\dotnet\sdk\2.1.302\Sdks
+UseTaskEntryPointForRun: False
+WellKnownProperties has not been loaded yet.
+], CurrentMonoRuntime[RootPath: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge, ExePath: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\bin\mono.exe], CurrentDotNetCoreRuntime[Cli: .NET CLI[	
+SdksFolder: C:\Program Files\dotnet\sdk,
+	ExePath: C:\Program Files\dotnet\dotnet.exe
+	InstalationFolder: C:\Program Files\dotnet
+	Sdks: [2.1.202, 2.1.302]],
+Sdk: 2.1.302]
+23:29:17.742 |V| NuGetRepositoryManager        | :1                 | New RepositoryPath = C:\code\RiderDemo\packages
+23:29:17.757 |V| RiderSolutionCaches           | :1                 | Creating solution caches. Expected path: 'C:\Users\matthias.koch\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_RiderDemo.-1555641592'
+23:29:17.788 |V| LevelDbAutocommitTransaction  | :1                 | STV.Started `LevelDbAutocommitTransaction` in separate thread
+23:29:17.788 |V| RiderSolutionCaches           | :1                 | Solution caches opened in 'C:\Users\matthias.koch\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_RiderDemo.-1555641592.00'. Cleared: 'False'. Persistent: 'True'
+23:29:17.788 |V| ProjectModelUpdateStates      | :1                 | IsInHardUpdateState: False
+23:29:17.976 |V| ProjectModelMonitor           | :1                 | IsProjectModelReady -> False [ProjectModel: False, NuGet operations: 0]
+23:29:18.023 |V| RiderApplicationRuntime       | :1                 | Mono path in settings not found try to fallback to first detected mono runtime
+23:29:18.023 |V| EnvMonoPathProvider           | :1                 | Mono in path not found
+23:29:18.038 |V| RiderApplicationRuntime       | :1                 | Load mono runtime: RootPath: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge, ExePath: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\bin\mono.exe from settings
+23:29:18.038 |V| RiderApplicationRuntime       | :1                 | .NET CLI path in settings not found try to fallback to first detected .NET CLI runtime
+23:29:18.038 |V| RiderApplicationRuntime       | :1                 | Load .NET CLI runtime: C:\Program Files\dotnet from settings
+23:29:18.038 |I| RiderSolutionLoadProgress     | :1                 | Execute task [LoadSolutionFromCache] 'Load Solution From Cache'
+23:29:18.054 |V| MsBuildSessionHolder          | JetPool(S) #1:11   | Creating MsBuild session for v. 15.0 'C:\Program Files\dotnet\sdk\2.1.302\MSBuild.dll' and log 'C:\Users\matthias.koch\.Rider2018.2\system\log\RiderDemo.msbuild-task.log'
+23:29:18.054 |V| ServerSocket-MsBuild  Process-Sender| JetPool(S) #1:11   | Pausing, reason=Disconnected, state=Initialized
+23:29:18.054 |V| Server                        | JetPool(S) #1:11   | ServerSocket-MsBuild [ProjectModel] Process : started
+23:29:18.054 |V| Server                        | ServerSocket-MsBuild [ProjectModel] Process-Receiver:44 | ServerSocket-MsBuild [ProjectModel] Process : listening
+23:29:18.054 |V| Server                        | JetPool(S) #1:11   | ServerSocket-MsBuild [ProjectModel] Process: finished synchronous wait for server socket listening, port=60515, serverSocket initialized: True
+23:29:18.070 |V| MsBuildExternalProcess        | JetPool(S) #1:11   | MsBuild [ProjectModel] ProcessEnvironmentVariables for process “C:\Program Files\dotnet\dotnet.exe” with arguments >>>"C:\Program Files\dotnet\sdk\2.1.302\MSBuild.dll" "C:\Users\matthias.koch\AppData\Local\Temp\Hywucor.csproj"<<< under workding directory “”
+EnvironmentVariable 'ALLUSERSPROFILE' = 'C:\ProgramData'
+EnvironmentVariable 'APPDATA' = 'C:\Users\matthias.koch\AppData\Roaming'
+EnvironmentVariable 'ChocolateyInstall' = 'C:\ProgramData\chocolatey'
+EnvironmentVariable 'ChocolateyLastPathUpdate' = 'Tue Aug  7 16:08:59 2018'
+EnvironmentVariable 'ChocolateyToolsLocation' = 'C:\tools'
+EnvironmentVariable 'CLIENTNAME' = 'dawg.local'
+EnvironmentVariable 'CommonProgramFiles' = 'C:\Program Files\Common Files'
+EnvironmentVariable 'CommonProgramFiles(x86)' = 'C:\Program Files (x86)\Common Files'
+EnvironmentVariable 'CommonProgramW6432' = 'C:\Program Files\Common Files'
+EnvironmentVariable 'COMPUTERNAME' = 'MUNIT-229'
+EnvironmentVariable 'ComSpec' = 'C:\Windows\system32\cmd.exe'
+EnvironmentVariable 'DOTCOVER_ADDITIONAL_PROBING_PATHS' = 'C:\Users\matthias.koch\AppData\Local\JetBrains\Toolbox\apps\Rider\ch-0\182.3944.254\lib\ReSharperHost;C:\Users\matthias.koch\AppData\Local\JetBrains\Toolbox\apps\Rider\ch-0\182.3944.254\plugins\rider-unity\dotnet;C:\Users\matthias.koch\AppData\Local\JetBrains\Toolbox\apps\Rider\ch-0\182.3944.254\plugins\rider-fsharp\dotnet;C:\Users\matthias.koch\AppData\Local\JetBrains\Toolbox\apps\Rider\ch-0\182.3944.254\plugins\dotCommon\DotFiles;C:\Users\matthias.koch\AppData\Local\JetBrains\Toolbox\apps\Rider\ch-0\182.3944.254\plugins\dotCover\DotFiles'
+EnvironmentVariable 'DOTNET_CLI_TELEMETRY_OPTOUT' = '1'
+EnvironmentVariable 'DOTNET_HOST_PATH' = 'C:\Program Files\dotnet\dotnet.exe'
+EnvironmentVariable 'DOTNET_SKIP_FIRST_TIME_EXPERIENCE' = '1'
+EnvironmentVariable 'DriverData' = 'C:\Windows\System32\Drivers\DriverData'
+EnvironmentVariable 'FSHARPINSTALLDIR' = 'C:\Program Files (x86)\Microsoft SDKs\F#\10.1\Framework\v4.0\'
+EnvironmentVariable 'HOMEDRIVE' = 'C:'
+EnvironmentVariable 'HOMEPATH' = '\Users\matthias.koch'
+EnvironmentVariable 'JAVA_HOME' = 'C:\Program Files (x86)\Java\jdk1.8.0_181'
+EnvironmentVariable 'JET_ADDITIONAL_DEPLOYED_PACKAGES_PID_000055E4' = '<Packages><File Path="C:\Users\matthias.koch\.Rider2018.2\config\plugins\heap-allocations-viewer\ReSharper.HeapView.Wave182.1.2.7.nupkg"></File><Folder Path="C:\Users\matthias.koch\AppData\Local\JetBrains\Toolbox\apps\Rider\ch-0\182.3944.254\plugins\dotCommon\DotFiles"></Folder><Folder Path="C:\Users\matthias.koch\AppData\Local\JetBrains\Toolbox\apps\Rider\ch-0\182.3944.254\plugins\dotCover\DotFiles"></Folder><AdHocMetadata BaseDir="C:\Users\matthias.koch\AppData\Local\JetBrains\Toolbox\apps\Rider\ch-0\182.3944.254\plugins\rider-fsharp\dotnet" Version="2018.2.24" BuiltOn="2018-08-02T16:25:48Z" CompanyNameHuman="JetBrains" SubplatformName="plugin_com_jetbrains_rider_fsharp"><PackageFile RelativePath="Fantomas.dll" AssemblyName="*"></PackageFile><PackageFile RelativePath="FSharp.Compiler.Service.dll" AssemblyName="*"></PackageFile><PackageFile RelativePath="FSharp.Core.dll" AssemblyName="*"></PackageFile><PackageFile RelativePath="JetBrains.ReSharper.Plugins.FSharp.Common.dll" AssemblyName="*"></PackageFile><PackageFile RelativePath="JetBrains.ReSharper.Plugins.FSharp.Daemon.Cs.dll" AssemblyName="*"></PackageFile><PackageFile RelativePath="JetBrains.ReSharper.Plugins.FSharp.ProjectModelBase.dll" AssemblyName="*"></PackageFile><PackageFile RelativePath="JetBrains.ReSharper.Plugins.FSharp.Psi.dll" AssemblyName="*"></PackageFile><PackageFile RelativePath="JetBrains.ReSharper.Plugins.FSharp.Psi.Features.dll" AssemblyName="*"></PackageFile><PackageFile RelativePath="JetBrains.ReSharper.Plugins.FSharp.Services.Cs.dll" AssemblyName="*"></PackageFile><PackageFile RelativePath="JetBrains.ReSharper.Plugins.FSharp.Templates.dll" AssemblyName="*"></PackageFile></AdHocMetadata><AdHocMetadata BaseDir="C:\Users\matthias.koch\AppData\Local\JetBrains\Toolbox\apps\Rider\ch-0\182.3944.254\plugins\rider-unity\dotnet" Version="2018.2.0.24" BuiltOn="2018-08-02T16:25:48Z" CompanyNameHuman="JetBrains" SubplatformName="plugin_com_intellij_resharper_unity"><PackageFile RelativePath="JetBrains.ReSharper.Plugins.Unity.dll" AssemblyName="*"></PackageFile></AdHocMetadata></Packages>'
+EnvironmentVariable 'JET_LOCAL_APPDATA_DIR_PID_000055E4' = 'C:\Users\matthias.koch\.Rider2018.2\system\resharper-host\local'
+EnvironmentVariable 'JET_ROAMING_APPDATA_DIR_PID_000055E4' = 'C:\Users\matthias.koch\.Rider2018.2\system\resharper-host\roaming'
+EnvironmentVariable 'JET_TEMP_DIR_PID_000055E4' = 'C:\Users\matthias.koch\.Rider2018.2\system\resharper-host\temp'
+EnvironmentVariable 'LOCALAPPDATA' = 'C:\Users\matthias.koch\AppData\Local'
+EnvironmentVariable 'LOGONSERVER' = '\\MUCDC'
+EnvironmentVariable 'MSBUILD_TASK_PARENT_PROCESS_PID' = '21988'
+EnvironmentVariable 'MSBuildExtensionsPath' = 'C:\Program Files\dotnet\sdk\2.1.302'
+EnvironmentVariable 'MSBuildSDKsPath' = 'C:\Program Files\dotnet\sdk\2.1.302\Sdks'
+EnvironmentVariable 'NUMBER_OF_PROCESSORS' = '12'
+EnvironmentVariable 'OneDrive' = 'C:\Users\matthias.koch\OneDrive'
+EnvironmentVariable 'OS' = 'Windows_NT'
+EnvironmentVariable 'Path' = 'C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\GitExtensions\;C:\Program Files (x86)\dotnet\;C:\Users\matthias.koch\AppData\Local\Microsoft\WindowsApps;C:\Users\matthias.koch\.dotnet\tools'
+EnvironmentVariable 'PATHEXT' = '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+EnvironmentVariable 'PROCESSOR_ARCHITECTURE' = 'AMD64'
+EnvironmentVariable 'PROCESSOR_IDENTIFIER' = 'Intel64 Family 6 Model 158 Stepping 10, GenuineIntel'
+EnvironmentVariable 'PROCESSOR_LEVEL' = '6'
+EnvironmentVariable 'PROCESSOR_REVISION' = '9e0a'
+EnvironmentVariable 'ProgramData' = 'C:\ProgramData'
+EnvironmentVariable 'ProgramFiles' = 'C:\Program Files'
+EnvironmentVariable 'ProgramFiles(x86)' = 'C:\Program Files (x86)'
+EnvironmentVariable 'ProgramW6432' = 'C:\Program Files'
+EnvironmentVariable 'PSModulePath' = '%ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules'
+EnvironmentVariable 'PUBLIC' = 'C:\Users\Public'
+EnvironmentVariable 'RESHARPER_HOST_CONFIG_DIR' = 'C:\Users\matthias.koch\.Rider2018.2\config\resharper-host'
+EnvironmentVariable 'RESHARPER_HOST_LOG_DIR' = 'C:\Users\matthias.koch\.Rider2018.2\system\log'
+EnvironmentVariable 'RESHARPER_HOST_PARENT_PROCESS_PID' = '19316'
+EnvironmentVariable 'RESHARPER_LOG_CONF' = 'C:\Users\matthias.koch\AppData\Local\JetBrains\Toolbox\apps\Rider\ch-0\182.3944.254\bin\backend-log.xml'
+EnvironmentVariable 'SESSIONNAME' = 'Console'
+EnvironmentVariable 'SystemDrive' = 'C:'
+EnvironmentVariable 'SystemRoot' = 'C:\Windows'
+EnvironmentVariable 'TEMP' = 'C:\Users\MATTHI~1.KOC\AppData\Local\Temp'
+EnvironmentVariable 'TMP' = 'C:\Users\MATTHI~1.KOC\AppData\Local\Temp'
+EnvironmentVariable 'TOOLBOX_VERSION' = '1.10.4088'
+EnvironmentVariable 'USERDNSDOMAIN' = 'LABS.INTELLIJ.NET'
+EnvironmentVariable 'USERDOMAIN' = 'LABS'
+EnvironmentVariable 'USERDOMAIN_ROAMINGPROFILE' = 'LABS'
+EnvironmentVariable 'USERNAME' = 'Matthias.Koch'
+EnvironmentVariable 'USERPROFILE' = 'C:\Users\matthias.koch'
+EnvironmentVariable 'windir' = 'C:\Windows'
+
+23:29:18.070 |V| MsBuildExternalProcess        | JetPool(S) #1:11   | MsBuild [ProjectModel] Process: Creating process: C:\Program Files\dotnet\dotnet.exe "C:\Program Files\dotnet\sdk\2.1.302\MSBuild.dll" "C:\Users\matthias.koch\AppData\Local\Temp\Hywucor.csproj"
+23:29:18.085 |V| MsBuildExternalProcess        | JetPool(S) #1:11   | MsBuild [ProjectModel] Process 19400: Creating protocol model...
+23:29:18.085 |V| MsBuildExternalProcess        | JetPool(S) #1:11   | MsBuild [ProjectModel] Process 19400: Connecting to protocol model...
+23:29:18.195 |V| MsBuildExternalProcess        | :40                | MsBuild [ProjectModel] Process 19400: Microsoft (R) Build Engine version 15.7.179.6572 for .NET Core
+23:29:18.195 |V| MsBuildExternalProcess        | :40                | MsBuild [ProjectModel] Process 19400: Copyright (C) Microsoft Corporation. All rights reserved.
+23:29:18.195 |V| RiderApplicationRuntime       | :1                 | .NET CLI path in settings not found try to fallback to first detected .NET CLI runtime
+23:29:18.195 |V| RiderApplicationRuntime       | :1                 | Load .NET CLI runtime: C:\Program Files\dotnet from settings
+23:29:18.210 |V| RiderApplicationRuntime       | :1                 | .NET CLI path in settings not found try to fallback to first detected .NET CLI runtime
+23:29:18.210 |V| RiderApplicationRuntime       | :1                 | Load .NET CLI runtime: C:\Program Files\dotnet from settings
+23:29:18.241 |V| MsBuildExternalProcess        | :47                | MsBuild [ProjectModel] Process 19400: Build started 08/08/2018 23:29:18.
+23:29:18.351 |V| Server                        | ServerSocket-MsBuild [ProjectModel] Process-Receiver:44 | ServerSocket-MsBuild [ProjectModel] Process : accept
+23:29:18.351 |V| Server                        | ServerSocket-MsBuild [ProjectModel] Process-Receiver:44 | ServerSocket-MsBuild [ProjectModel] Process : connected
+23:29:18.351 |V| ServerSocket-MsBuild  Process-Sender| ServerSocket-MsBuild [ProjectModel] Process-Receiver:44 | Resuming reason=Disconnected(present=True), state=AsyncProcessing, unpaused=True
+23:29:18.460 |V| MsBuildExternalProcess        | JetPool(S) #1:11   | MsBuild [ProjectModel] Process 19400: Initialized per 372 ms
+23:29:18.476 |I| RiderSolutionManager          | :1                 | Solution 'RiderDemo' was loaded from caches
+23:29:18.476 |I| SolutionHostStructureWaiter   | :1                 | Pause tasks FinalSynchronizeSolution: Wait for solution synchronization
+23:29:18.476 |I| RiderSolutionLoadProgress     | :1                 | Execute task [SolutionContainer] 'Wait for delayed shell components'
+23:29:18.507 |V| DevenvHostDiscovery           | :1                 | Enumerating installed VS versions the classic machine way.
+23:29:18.507 |V| DevenvHostDiscovery           | :1                 | VS 10.0 has related keys but no installdir in the Registry.
+23:29:18.507 |V| DevenvHostDiscovery           | :1                 | VS 12.0 has related keys but no installdir in the Registry.
+23:29:18.507 |V| DevenvHostDiscovery           | :1                 | VS 14.0 has related keys but no installdir in the Registry.
+23:29:18.507 |V| DevenvHostDiscovery           | :1                 | Skipping discovered classic VS version 15.0 because it's not whitelisted.
+23:29:18.507 |V| DevenvHostDiscovery           | :1                 | VS 8.0 has related keys but no installdir in the Registry.
+23:29:18.507 |V| DevenvHostDiscovery           | :1                 | Attempting to create an instance of the VS Setup Configuration interface.
+23:29:18.507 |V| DevenvHostDiscovery           | :1                 | Successfully created an instance of the VS Setup Configuration interface.
+23:29:18.507 |V| DevenvHostDiscovery           | :1                 | Enumerating complete VS Product Instances.
+23:29:18.507 |V| DevenvHostDiscovery           | :1                 | Done with enumerating complete VS Product Instances.
+23:29:18.507 |V| DevenvHostDiscovery           | :1                 | Enumerating all VS Product Instances.
+23:29:18.507 |V| DevenvHostDiscovery           | :1                 | Done with enumerating all VS Product Instances.
+23:29:18.507 |V| DevenvHostDiscovery           | :1                 | InstalledVs 15.0_bd617ca9 Incomplete=False InstallDir “C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE” ver 15.7.27703.2047 aka VS2017 aka “Visual Studio Professional 2017” packages [<NULL>].
+23:29:18.523 |V| MsBuildProjectModelSession    | JetPool(S) #1:11   | Start reloading session with 1 projects
+23:29:18.523 |I| ShellHost                     | :1                 | ShellHost created, subscribe for initializationStrategy
+23:29:18.757 |V| MsBuildProjectModelSession    | MsBuild [ProjectModel] Protocol Thread:42 | OnStart: RdProjectId (  id = 0)
+23:29:18.913 |V| RiderIsApplicationActiveStateTracker| :1                 | Change state IsApplicationActive: True
+23:29:18.991 |V| MsBuildProjectModelSession    | MsBuild [ProjectModel] Protocol Thread:42 | OnFinish: RdProjectId (  id = 0)
+23:29:18.991 |V| MsBuildProjectModelSession    | MsBuild [ProjectModel] Protocol Thread:42 | Finish reloading sessions and terminate dispatcher...
+23:29:19.007 |V| RiderIsApplicationActiveStateTracker| :1                 | Change state IsApplicationActive: False
+23:29:19.226 |V| ProjectReferencesBuilder      | JetPool(S) #1:11   | TargetFrameworkDirectories not found.
+23:29:19.226 |I| RiderSolutionLoadProgress     | :1                 | Execute task [SolutionContainer] 'Create Solution Container Task'
+23:29:19.257 |V| NuGetThread                   | :1                 | STV.Started `NuGetThread` in separate thread
+23:29:19.272 |V| NuGetOperator                 | :1                 | NuGetOperator::IsBusy = True
+23:29:19.304 |V| NuGetOperator                 | NuGetThread:50     | NuGetOperator::IsBusy = False
+23:29:19.319 |V| NuGetHost                     | JetPool(S) #2:12   | [PS]GetInstalledPackagesAsync for Navigation: List(0) {  }
+23:29:19.366 |V| SolutionHost                  | JetPool(S) #1:11   | 1 projects were loaded for 00:00:01.3468526. Project Host: MsBuildProjectHost
+23:29:19.366 |V| SolutionHost                  | JetPool(S) #1:11   | 1 projects were loaded for 00:00:00.0034077. Project Host: SolutionFolderHost
+23:29:19.507 |V| SuspendHardOperationsManager  | :1                 | RELEASE SUSPEND HARD OPERATIONS
+23:29:19.538 |V| ExternalAnnotationsModuleFactory| :1                 | .NETFramework,Version=v2.0 -> C:\Users\matthias.koch\AppData\Local\JetBrains\Toolbox\apps\Rider\ch-0\182.3944.254\lib\ReSharperHost\Annotations\net20\JetBrains.Annotations.dll
+23:29:19.538 |V| ExternalAnnotationsModuleFactory| :1                 | .NETStandard,Version=v1.0 -> C:\Users\matthias.koch\AppData\Local\JetBrains\Toolbox\apps\Rider\ch-0\182.3944.254\lib\ReSharperHost\Annotations\netstandard1.0\JetBrains.Annotations.dll
+23:29:19.538 |V| ExternalAnnotationsModuleFactory| :1                 | .NETPortable,Version=v4.0,Profile=Profile2 -> C:\Users\matthias.koch\AppData\Local\JetBrains\Toolbox\apps\Rider\ch-0\182.3944.254\lib\ReSharperHost\Annotations\portable40-net40+sl4+win8+wp7\JetBrains.Annotations.dll
+23:29:19.538 |V| ExternalAnnotationsModuleFactory| :1                 | .NETPortable,Version=v4.0,Profile=Profile328 -> C:\Users\matthias.koch\AppData\Local\JetBrains\Toolbox\apps\Rider\ch-0\182.3944.254\lib\ReSharperHost\Annotations\portable40-net40+sl5+win8+wp8+wpa81\JetBrains.Annotations.dll
+23:29:19.554 |V| PersistentIndexManager        | :1                 | <PersistentIndexManager.Initialize>
+23:29:19.694 |V| GetPsiModule                  | :1                 | Selected <null> for  from .NETFramework,Version=v2.0;.NETStandard,Version=v1.0;.NETPortable,Version=v4.0,Profile=Profile2;.NETPortable,Version=v4.0,Profile=Profile328
+23:29:19.694 |W| GetPsiModule                  | :1                 | Can't find external annotations for Default
+23:29:19.835 |V| XmlIndexThread                | :1                 | STV.Started `XmlIndexThread` in separate thread
+23:29:19.882 |V| CacheJobService               | :1                 | STV.Started `CacheJobService` in separate thread
+23:29:20.022 |V| DaemonThread                  | :1                 | STV.Started `DaemonThread` in separate thread
+23:29:20.319 |V| PsiCacheRegistry              | :1                 | PsiCaches: <len=20>
+  AttributeInstancesProvider
+  CodeAnnotationsCache
+  TypeElementInheritanceCache
+  SymbolTableCache
+  CaseSensitiveSymbolScopeRequestCache
+  InternalsVisibleToCache
+  AttributesCache
+  PredefinedTypeCache
+  PossibleInheritanceCache
+  VBModuleCache
+  AspAttributesCache
+  AspFileDataCacheImpl
+  XamlResourcesCache
+  NamespaceAliasCacheManager
+  XamlTypeCache
+  XamlPredefinedResourcesCache
+  XamlDeclaredElementsCache
+  CacheMap
+  DeclaredElementBinderService
+  UnitTestAttributeCache
+
+23:29:20.319 |V| PsiCacheRegistry              | :1                 | Added to active caches: GeneratedFilesCache
+23:29:20.319 |V| PsiCacheRegistry              | :1                 | Added to active caches: ConditionalNamesCache
+23:29:20.319 |V| PsiCacheRegistry              | :1                 | Added to active caches: NamedArgumentCache
+23:29:20.319 |V| PsiCacheRegistry              | :1                 | Added to active caches: InternalsVisibleToCache
+23:29:20.335 |V| PsiCacheRegistry              | :1                 | Added to active caches: AnnotatedMembersCache
+23:29:20.335 |V| PsiCacheRegistry              | :1                 | Added to active caches: AssemblyAnnotatedMembersCache
+23:29:20.335 |V| PsiCacheRegistry              | :1                 | Added to active caches: TypeMembersCache
+23:29:20.335 |V| PsiCacheRegistry              | :1                 | Added to active caches: SymbolCache
+23:29:20.335 |V| PsiCacheRegistry              | :1                 | Added to active caches: StubTreeNodeCache
+23:29:20.335 |V| PsiCacheRegistry              | :1                 | Added to active caches: BuildScriptCache
+23:29:20.335 |V| PsiCacheRegistry              | :1                 | Added to active caches: ProtobufFileOptionsCache
+23:29:20.335 |V| PsiCacheRegistry              | :1                 | Added to active caches: ProtobufImportCache
+23:29:20.335 |V| PsiCacheRegistry              | :1                 | Added to active caches: ProtobufDeclarationCache
+23:29:20.335 |V| PsiCacheRegistry              | :1                 | Added to active caches: WebConfigCacheController
+23:29:20.335 |V| PsiCacheRegistry              | :1                 | Added to active caches: TagPrefixCacheImpl
+23:29:20.335 |V| PsiCacheRegistry              | :1                 | Added to active caches: WebSymbolsCache
+23:29:20.335 |V| PsiCacheRegistry              | :1                 | Added to active caches: RazorTagHelperDataCache
+23:29:20.335 |V| PsiCacheRegistry              | :1                 | Added to active caches: RazorNamespaceCache
+23:29:20.335 |V| PsiCacheRegistry              | :1                 | Added to active caches: RazorInheritsCache
+23:29:20.335 |V| PsiCacheRegistry              | :1                 | Added to active caches: RazorNamespaceImportsCache
+23:29:20.335 |V| PsiCacheRegistry              | :1                 | Added to active caches: RazorInjectionsCache
+23:29:20.335 |V| PsiCacheRegistry              | :1                 | Added to active caches: HasSourceFileMapCache
+23:29:20.335 |V| PsiCacheRegistry              | :1                 | Added to active caches: JavaScriptTypeCacheMaintainer
+23:29:20.335 |V| PsiCacheRegistry              | :1                 | Added to active caches: JavaScriptDependentFilesCache
+23:29:20.335 |V| PsiCacheRegistry              | :1                 | Added to active caches: XamlAssemblyResourcesCache
+23:29:20.335 |V| PsiCacheRegistry              | :1                 | Added to active caches: ContentTrigramIndex
+23:29:20.335 |V| PsiCacheRegistry              | :1                 | Added to active caches: SourcesTrigramIndex
+23:29:20.335 |V| PsiCacheRegistry              | :1                 | Added to active caches: MvcCache
+23:29:20.335 |V| PsiCacheRegistry              | :1                 | Added to active caches: SolutionResourceCache
+23:29:20.335 |V| FileImages                    | :1                 | <FileImages.Release>
+23:29:20.335 |V| PsiCacheRegistry              | :1                 | Removed from active caches: FileImages
+23:29:20.335 |V| PsiCacheRegistry              | :1                 | Added to active caches: JavaScriptTestCache
+23:29:20.335 |V| PsiCacheRegistry              | :1                 | Added to active caches: RiderTodoManager
+23:29:20.335 |V| PsiCacheRegistry              | :1                 | Added to active caches: RiderDocumentInfoCache
+23:29:20.335 |V| PsiCacheRegistry              | :1                 | Added to active caches: AsmDefNameCache
+23:29:20.506 |V| RiderSolutionBuilder          | :1                 | Receive new build runner of type MsBuildExeBuildRunner, runner.IsAvailable=True, runner.Priority=0
+23:29:20.506 |V| RiderSolutionBuilder          | :1                 | Runner: MsBuildExeBuildRunner is available
+23:29:20.585 |V| AggregatedSolutionBuilderConfigurationReloadTracker| :1                 | Set new reloading state True. tracker JetBrains.ReSharper.Features.SolBuilderDuo.Services.ProjectsPersistentKeeper
+23:29:20.585 |V| AggregatedSolutionBuilderConfigurationReloadTracker| :1                 | Set new reloading state True. tracker JetBrains.ReSharper.Features.SolBuilderDuo.Services.ProjectsPersistentKeeper
+23:29:20.585 |V| AggregatedSolutionBuilderConfigurationReloadTracker| :1                 | Set new reloading state True. tracker JetBrains.ReSharper.Features.SolBuilderDuo.Services.ProjectsPersistentKeeper
+23:29:20.585 |V| AggregatedSolutionBuilderConfigurationReloadTracker| :1                 | Set new reloading state True. tracker JetBrains.ReSharper.Features.SolBuilderDuo.Services.ProjectsPersistentKeeper
+23:29:20.585 |V| AggregatedSolutionBuilderConfigurationReloadTracker| :1                 | Set new reloading state True. tracker JetBrains.ReSharper.Features.SolBuilderDuo.Services.ProjectsPersistentKeeper
+23:29:20.600 |V| SolutionBuilderControllerPrototype_Executor| :1                 | STV.Started `SolutionBuilderControllerPrototype_Executor` in separate thread
+23:29:20.647 |V| SolutionBuilderFileAnalyzer   | :1                 | New value: False. calculationFinished: False, idleValue: True
+23:29:20.647 |V| SolutionBuilderFileAnalyzer   | :1                 | New value: False. calculationFinished: False, idleValue: True
+23:29:20.663 |V| RiderIncrementalRunner        | :1                 | ctor Before subscribe
+23:29:20.663 |V| RiderIncrementalRunner        | :1                 | RecalculateState. inputs. isEnabledInSettings=True, applicabilityState.IsApplicable=True, isAvailableMixin=True, isConfigurationConsistent=False, isWaitingSolutionLoaded=True, calculationFinished=False, currentBuilderState=None
+23:29:20.663 |V| RiderIncrementalRunner        | :1                 | RecalculateState. newValues. isAvailableValue=True, isReadyValue=False
+23:29:20.663 |V| RiderIncrementalRunner        | :1                 | RecalculateState. inputs. isEnabledInSettings=True, applicabilityState.IsApplicable=True, isAvailableMixin=True, isConfigurationConsistent=False, isWaitingSolutionLoaded=True, calculationFinished=False, currentBuilderState=None
+23:29:20.663 |V| RiderIncrementalRunner        | :1                 | RecalculateState. newValues. isAvailableValue=True, isReadyValue=False
+23:29:20.663 |V| RiderIncrementalRunner        | :1                 | RecalculateState. inputs. isEnabledInSettings=True, applicabilityState.IsApplicable=True, isAvailableMixin=True, isConfigurationConsistent=False, isWaitingSolutionLoaded=True, calculationFinished=False, currentBuilderState=None
+23:29:20.663 |V| RiderIncrementalRunner        | :1                 | RecalculateState. newValues. isAvailableValue=True, isReadyValue=False
+23:29:20.663 |V| RiderIncrementalRunner        | :1                 | RecalculateState. inputs. isEnabledInSettings=True, applicabilityState.IsApplicable=True, isAvailableMixin=True, isConfigurationConsistent=False, isWaitingSolutionLoaded=True, calculationFinished=False, currentBuilderState=None
+23:29:20.663 |V| RiderIncrementalRunner        | :1                 | RecalculateState. newValues. isAvailableValue=True, isReadyValue=False
+23:29:20.663 |V| RiderIncrementalRunner        | :1                 | RecalculateState. inputs. isEnabledInSettings=True, applicabilityState.IsApplicable=True, isAvailableMixin=True, isConfigurationConsistent=False, isWaitingSolutionLoaded=True, calculationFinished=False, currentBuilderState=None
+23:29:20.663 |V| RiderIncrementalRunner        | :1                 | RecalculateState. newValues. isAvailableValue=True, isReadyValue=False
+23:29:20.663 |V| RiderIncrementalRunner        | :1                 | RecalculateState. inputs. isEnabledInSettings=True, applicabilityState.IsApplicable=True, isAvailableMixin=True, isConfigurationConsistent=False, isWaitingSolutionLoaded=True, calculationFinished=False, currentBuilderState=None
+23:29:20.663 |V| RiderIncrementalRunner        | :1                 | RecalculateState. newValues. isAvailableValue=True, isReadyValue=False
+23:29:20.663 |V| RiderIncrementalRunner        | :1                 | RecalculateState. inputs. isEnabledInSettings=True, applicabilityState.IsApplicable=True, isAvailableMixin=True, isConfigurationConsistent=False, isWaitingSolutionLoaded=True, calculationFinished=False, currentBuilderState=None
+23:29:20.663 |V| RiderIncrementalRunner        | :1                 | RecalculateState. newValues. isAvailableValue=True, isReadyValue=False
+23:29:20.663 |V| RiderIncrementalRunner        | :1                 | after Before subscribe
+23:29:20.663 |V| RiderIncrementalRunner        | :1                 | Update IsAvailableMixin: isMsBuild=True
+23:29:20.663 |V| RiderSolutionBuilder          | :1                 | Receive new build runner of type RiderIncrementalRunner, runner.IsAvailable=False, runner.Priority=1
+23:29:20.959 |V| SolutionAnalysisHost          | :1                 | Updating procotol enabled state from SWEA to True
+23:29:20.959 |V| SolutionAnalysisHost          | :1                 | Updating procotol paused state from SWEA to False
+23:29:20.959 |V| SolutionAnalysisHost          | :1                 | Updating procotol completed state from SWEA to False
+23:29:20.959 |V| SolutionAnalysisHost          | :1                 | Updating SWEA loaded from protocol to to False
+23:29:20.959 |V| SolutionAnalysisHost          | :1                 | SolutionAnalysisHost is ready
+23:29:20.975 |V| RiderSolutionAnalysisServiceImpl| :1                 | [SWEA] Initialization started
+23:29:20.991 |V| RiderSolutionAnalysisServiceImpl| :1                 | [SWEA] Initialization completed
+23:29:20.991 |V| FileImages                    | :1                 | <FileImages.Initialized>
+23:29:20.991 |V| PsiCacheRegistry              | :1                 | Added to active caches: FileImages
+23:29:21.772 |I| TriggerSolutionBuildAfterOpen | :1                 | not requested
+23:29:21.772 |I| TriggerSolutionBuildAfterOpen | :1                 | not requested at all
+23:29:21.772 |I| TriggerSolutionBuildAfterOpen | :1                 | !buildRequested
+23:29:22.256 |V| RiderDotNetActiveRuntimeHost  | :1                 | Set active runtime: RdActiveRuntime (  monoExePath = "C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\bin\mono.exe"  dotNetCliExePath = "C:\Program Files\dotnet\dotnet.exe"  dotNetCoreSdkList = [    "2.1.202"    "2.1.302"  ])
+23:29:22.287 |V| NuGetOperator                 | :1                 | NuGetOperator::IsBusy = True
+23:29:22.287 |V| SuspendHardOperationsManager  | :1                 | Suspend Hard Operations mode request from: [NuGetOperator::IsBusy]
+23:29:22.287 |V| SuspendHardOperationsManager  | :1                 | ENTER SUSPEND HARD OPERATIONS MODE
+23:29:22.287 |V| NuGetHost                     | NuGetThread:50     | Deleting marked packages.
+23:29:22.287 |V| NuGetHost                     | NuGetThread:50     | No stale packages.
+23:29:22.287 |V| NuGetOperator                 | NuGetThread:50     | NuGetOperator::IsBusy = False
+23:29:22.287 |V| SuspendHardOperationsManager  | NuGetThread:50     | RELEASE SUSPEND HARD OPERATIONS
+23:29:22.287 |V| SuspendHardOperationsManager  | NuGetThread:50     | Release Hard Operations mode request from: [NuGetOperator::IsBusy]
+23:29:22.631 |V| DebuggerWorkerConnectionListener| :1                 | Start viewing sessions
+23:29:22.772 |V| Scheduler                     | :1                 | STV.Started `SolutionCoverageMissingCoverageInfoTracker.Scheduler` in separate thread
+23:29:23.256 |V| SolutionHostSync              | :1                 | Initialize project model with 2 added, 0 updated and 0 removed projects right now
+23:29:23.256 |I| SolutionHostStructureWaiter   | :1                 | Resume tasks FinalSynchronizeSolution: Wait for solution synchronization
+23:29:23.256 |I| RiderHighlighterRegistrationHost| :1                 | Received request for Highlighter Registry transferring to frontend
+23:29:23.271 |V| RiderHighlighterCollectorHost | :1                 | All registered highlighters groups collected in 9 ms
+23:29:23.287 |V| NuGetHost                     | JetPool(S) #1:11   | [PS]GetInstalledPackagesAsync for Navigation: List(1) { NETStandard.Library.2.0.3 }
+23:29:23.303 |V| RiderHighlighterCollectorHost | :1                 | All registered highlighters collected in 40 ms
+23:29:23.303 |I| RiderHighlighterPackCreator   | :1                 | Collected 272 different highlighters types, sending to frontend
+23:29:23.318 |I| RiderHighlighterRegistrationHost| :1                 | Sending 'General (Rider)' Highlighter Color Settings Page
+23:29:23.334 |I| RiderHighlighterRegistrationHost| :1                 | Sending 'Heap Allocation Viewer' Highlighter Color Settings Page
+23:29:23.334 |I| RiderHighlighterRegistrationHost| :1                 | Sending 'Regexp (Rider)' Highlighter Color Settings Page
+23:29:23.334 |I| RiderHighlighterRegistrationHost| :1                 | Sending 'Stacktrace' Highlighter Color Settings Page
+23:29:23.334 |I| RiderHighlighterRegistrationHost| :1                 | Sending 'ASP.NET' Highlighter Color Settings Page
+23:29:23.334 |I| RiderHighlighterRegistrationHost| :1                 | Sending 'CSS (Rider)' Highlighter Color Settings Page
+23:29:23.334 |I| RiderHighlighterRegistrationHost| :1                 | Sending 'HTML (Rider)' Highlighter Color Settings Page
+23:29:23.334 |I| RiderHighlighterRegistrationHost| :1                 | Sending 'JavaScript (in Razor)' Highlighter Color Settings Page
+23:29:23.334 |I| RiderHighlighterRegistrationHost| :1                 | Sending 'Cg/HLSL' Highlighter Color Settings Page
+23:29:23.334 |I| RiderHighlighterRegistrationHost| :1                 | Sending 'ShaderLab' Highlighter Color Settings Page
+23:29:23.334 |I| RiderHighlighterRegistrationHost| :1                 | Sending 'TypeScript (Rider)' Highlighter Color Settings Page
+23:29:23.334 |I| RiderHighlighterRegistrationHost| :1                 | Sending 'Other' Highlighter Color Settings Page
+23:29:23.334 |V| RiderIsApplicationActiveStateTracker| :1                 | Change state IsApplicationActive: True
+23:29:23.334 |V| ConfigFileService             | JetPool(S) #2:12   | DoPurgeAndUpdate, mode = ForceExpire, UpdateLive
+23:29:23.334 |V| ConfigFileService             | JetPool(S) #2:12   | Resetting all entries
+23:29:23.334 |V| ConfigFileService             | JetPool(S) #1:11   | DoPurgeAndUpdate, mode = ForceExpire, UpdateLive
+23:29:23.334 |V| ConfigFileService             | JetPool(S) #1:11   | Resetting all entries
+23:29:23.334 |V| ConfigFileService             | JetPool(S) #7:17   | DoPurgeAndUpdate, mode = ForceExpire, UpdateLive
+23:29:23.334 |V| ConfigFileService             | JetPool(S) #7:17   | Resetting all entries
+23:29:23.553 |V| SolutionAnalysisHost          | :1                 | Updating procotol paused state from SWEA to True
+23:29:23.599 |I| IncrementalBuildTrigger       | :1                 | New current runner JetBrains.ReSharper.Host.Features.SolutionBuilder.ConsoleRunner.MsBuildExeBuildRunner
+23:29:23.599 |I| IncrementalBuildTrigger       | :1                 | Runner isReady = true
+23:29:23.599 |V| RiderSolutionBuilder          | :1                 | UpdateState change newRunner.IsReady=True
+23:29:23.599 |I| IncrementalBuildTrigger       | :1                 | !myShouldBuild
+23:29:23.599 |V| RiderSolutionBuilder          | :1                 | UpdateState IsReady=True, Runner=JetBrains.ReSharper.Host.Features.SolutionBuilder.ConsoleRunner.MsBuildExeBuildRunner
+23:29:23.599 |V| RiderIncrementalRunner        | :1                 | SetNewState. isAvailableValue=True, isReadyValue=False
+23:29:23.599 |V| RiderSolutionBuilder          | :1                 | Runner: RiderIncrementalRunner is available
+23:29:23.599 |V| RiderIncrementalRunner        | :1                 | SetNewState. isAvailableValue=True, isReadyValue=False
+23:29:23.599 |V| RiderIncrementalRunner        | :1                 | SetNewState. isAvailableValue=True, isReadyValue=False
+23:29:23.599 |V| RiderIncrementalRunner        | :1                 | SetNewState. isAvailableValue=True, isReadyValue=False
+23:29:23.599 |V| RiderIncrementalRunner        | :1                 | SetNewState. isAvailableValue=True, isReadyValue=False
+23:29:23.599 |V| RiderIncrementalRunner        | :1                 | SetNewState. isAvailableValue=True, isReadyValue=False
+23:29:23.599 |V| RiderIncrementalRunner        | :1                 | SetNewState. isAvailableValue=True, isReadyValue=False
+23:29:23.631 |I| RiderSolutionLoadProgress     | :1                 | Execute task [SolutionContainer] 'Open project instance Miscellaneous Files'
+23:29:23.662 |V| SolutionAssemblyNamesTracker  | JetPool(S) #1:11   | Looking for assembly names in solution
+23:29:23.662 |I| RiderSolutionLoadProgress     | :1                 | Execute task [SolutionContainer] 'Open project instance &'
+23:29:23.662 |V| SolutionAssemblyNamesTracker  | JetPool(S) #1:11   | Found 1 assembly names
+23:29:23.693 |V| ProjectModelPreloadedRunnerConfigurator| JetPool(S) #1:11   | Runners will be used: 
+23:29:23.724 |I| IncrementalBuildTrigger       | :1                 | New current runner JetBrains.ReSharper.Host.Features.SolutionBuilder.ComponentsImpl.RiderIncrementalRunner
+23:29:23.724 |V| RiderSolutionBuilder          | :1                 | UpdateState change newRunner.IsReady=False
+23:29:23.724 |V| RiderSolutionBuilder          | :1                 | UpdateState IsReady=False, Runner=JetBrains.ReSharper.Host.Features.SolutionBuilder.ComponentsImpl.RiderIncrementalRunner
+23:29:23.756 |I| RiderSolutionLoadProgress     | :1                 | Execute task [SolutionContainer] 'Open project instance Navigation'
+23:29:23.771 |V| NuGetHost                     | :1                 | [PS]GetInstalledPackagesAsync for Navigation: List(1) { NETStandard.Library.2.0.3 }
+23:29:23.771 |I| RiderSolutionLoadProgress     | :1                 | Execute task [SolutionContainer] 'Open project instance misc'
+23:29:23.787 |I| PreloadedCoverageTaskRunnersPool| :1                 | Runner list updated: 0 runners created, 0 runners killed. Total runners: 0
+23:29:23.787 |I| RiderSolutionLoadProgress     | :1                 | Execute task [SolutionContainer] 'Initializing PsiFilesCache buckets'
+23:29:23.803 |I| RiderSolutionLoadProgress     | :1                 | Execute task [SolutionContainer] 'SolutionStateTracker'
+23:29:23.803 |I| RiderSolutionLoadProgress     | :1                 | Execute task [FireProjectItemsAdded] 'AssemblyInfoCache::Load'
+23:29:23.803 |I| RiderSolutionLoadProgress     | :1                 | Execute task [FireProjectItemsAdded] 'Raise All Projects Added Task'
+23:29:23.849 |V| AddModule                     | :1                 | Selected .NETStandard,Version=v1.0 for .NETStandard,Version=v2.0 from .NETFramework,Version=v2.0;.NETStandard,Version=v1.0;.NETPortable,Version=v4.0,Profile=Profile2;.NETPortable,Version=v4.0,Profile=Profile328
+23:29:24.162 |V| ProjectToolsetChangeListener  | :1                 | Refresh toolset: project model was changed
+23:29:24.162 |V| RiderSolutionToolset          | :1                 | Receive Refresh signal
+23:29:24.162 |V| RiderApplicationRuntime       | :1                 | Mono path in settings not found try to fallback to first detected mono runtime
+23:29:24.162 |V| EnvMonoPathProvider           | :1                 | Mono in path not found
+23:29:24.162 |V| RiderApplicationRuntime       | :1                 | Load mono runtime: RootPath: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge, ExePath: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\bin\mono.exe from settings
+23:29:24.162 |V| RiderApplicationRuntime       | :1                 | .NET CLI path in settings not found try to fallback to first detected .NET CLI runtime
+23:29:24.162 |V| RiderApplicationRuntime       | :1                 | Load .NET CLI runtime: C:\Program Files\dotnet from settings
+23:29:24.162 |V| BuildToolContainer            | :1                 | GetBuildToolBySettings msBuildVersion=4294967293, customBuildToolPath=<EMPTY>, env=AutoDetectorInfo: RiderDemo, MonoRootPath: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge, ActiveDotNetCoreCli: Cli: .NET CLI[	
+SdksFolder: C:\Program Files\dotnet\sdk,
+	ExePath: C:\Program Files\dotnet\dotnet.exe
+	InstalationFolder: C:\Program Files\dotnet
+	Sdks: [2.1.202, 2.1.302]],
+Sdk: 2.1.302
+23:29:24.162 |V| BuildToolContainer            | :1                 | Use auto-detected toolset
+23:29:24.162 |V| BuildToolContainer            | :1                 | Autodetect: run auto detector
+23:29:24.162 |V| BuildToolContainer            | :1                 | Start build tool discovering in environment: AutoDetectorInfo: RiderDemo, MonoRootPath: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge, ActiveDotNetCoreCli: Cli: .NET CLI[	
+SdksFolder: C:\Program Files\dotnet\sdk,
+	ExePath: C:\Program Files\dotnet\dotnet.exe
+	InstalationFolder: C:\Program Files\dotnet
+	Sdks: [2.1.202, 2.1.302]],
+Sdk: 2.1.302
+23:29:24.162 |V| RegistryMsBuildToolProvider   | :1                 | Start build tool discover int registry: SOFTWARE\WOW6432Node\Microsoft\MSBuild\ToolsVersions
+23:29:24.162 |V| RegistryMsBuildToolProvider   | :1                 | Try to discover xBuild from registry key: 2.0
+23:29:24.162 |V| RegistryMsBuildToolProvider   | :1                 | Try to discover xBuild from registry key: 3.5
+23:29:24.162 |V| RegistryMsBuildToolProvider   | :1                 | Try to discover xBuild from registry key: 4.0
+23:29:24.162 |V| RegistryMsBuildToolProvider   | :1                 | Found MSBuild: C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe
+23:29:24.162 |V| VisualStudio15MsBuildToolProvider| :1                 | Try to discover MSBuild in installed VS15
+23:29:24.162 |V| DevenvHostDiscovery           | :1                 | Enumerating installed VS versions the classic machine way.
+23:29:24.162 |V| DevenvHostDiscovery           | :1                 | VS 10.0 has related keys but no installdir in the Registry.
+23:29:24.162 |V| DevenvHostDiscovery           | :1                 | VS 12.0 has related keys but no installdir in the Registry.
+23:29:24.162 |V| DevenvHostDiscovery           | :1                 | VS 14.0 has related keys but no installdir in the Registry.
+23:29:24.162 |V| DevenvHostDiscovery           | :1                 | Skipping discovered classic VS version 15.0 because it's not whitelisted.
+23:29:24.162 |V| DevenvHostDiscovery           | :1                 | VS 8.0 has related keys but no installdir in the Registry.
+23:29:24.162 |V| DevenvHostDiscovery           | :1                 | Attempting to create an instance of the VS Setup Configuration interface.
+23:29:24.162 |V| DevenvHostDiscovery           | :1                 | Successfully created an instance of the VS Setup Configuration interface.
+23:29:24.162 |V| DevenvHostDiscovery           | :1                 | Enumerating complete VS Product Instances.
+23:29:24.162 |V| DevenvHostDiscovery           | :1                 | Done with enumerating complete VS Product Instances.
+23:29:24.162 |V| DevenvHostDiscovery           | :1                 | Enumerating all VS Product Instances.
+23:29:24.162 |V| DevenvHostDiscovery           | :1                 | Done with enumerating all VS Product Instances.
+23:29:24.162 |V| DevenvHostDiscovery           | :1                 | InstalledVs 15.0_bd617ca9 Incomplete=False InstallDir “C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE” ver 15.7.27703.2047 aka VS2017 aka “Visual Studio Professional 2017” packages [<NULL>].
+23:29:24.162 |V| VisualStudio15MsBuildToolProvider| :1                 | Try to discover MSBuild in folder: VS 15.0_bd617ca9 @ “C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE”
+23:29:24.162 |V| VisualStudio15MsBuildToolProvider| :1                 | Found MSBuild: C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\MSBuild\15.0\Bin\MSBuild.exe
+23:29:24.162 |V| DotNetCoreMsBuildProvider     | :1                 | Found MSBuild in SDK: C:\Program Files\dotnet\sdk\2.1.302\MSBuild.dll
+23:29:24.162 |V| MonoXBuildToolProvider        | :1                 | Skip build tool discover on Windows.
+23:29:24.162 |V| BuildToolContainer            | :1                 | Dicover found 3 build tools
+23:29:24.162 |V| BuildToolContainer            | :1                 | Discovered build tool:
+Type: JetBrains.ProjectModel.MSBuild.BuildTools.MsBuildTool
+Version: 4.0
+Directory: C:\Windows\Microsoft.NET\Framework\v4.0.30319
+ExePath: C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe
+EnvironmentVariables:
+	MSBuildSDKsPath=C:\Program Files\dotnet\sdk\2.1.302\Sdks\
+UseTaskEntryPointForRun: False
+WellKnownProperties has not been loaded yet.
+
+23:29:24.162 |V| BuildToolContainer            | :1                 | Discovered build tool:
+Type: JetBrains.ProjectModel.MSBuild.BuildTools.MsBuildTool
+Version: 15.0
+Directory: C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\MSBuild\15.0\Bin
+ExePath: C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\MSBuild\15.0\Bin\MSBuild.exe
+EnvironmentVariables:
+	DOTNET_MSBUILD_SDK_RESOLVER_CLI_DIR=C:\Program Files\dotnet
+	MONO_ANDROID_PATH=C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\MSBuild\Xamarin\Android
+UseTaskEntryPointForRun: False
+WellKnownProperties has not been loaded yet.
+
+23:29:24.162 |V| BuildToolContainer            | :1                 | Discovered build tool:
+Type: JetBrains.ReSharper.Host.Features.Toolset.DotNetCoreMsBuild
+Version: 15.0
+Directory: C:\Program Files\dotnet\sdk\2.1.302
+ExePath: C:\Program Files\dotnet\sdk\2.1.302\MSBuild.dll
+EnvironmentVariables:
+	MSBuildExtensionsPath=C:\Program Files\dotnet\sdk\2.1.302
+	DOTNET_HOST_PATH=C:\Program Files\dotnet\dotnet.exe
+	MSBuildSDKsPath=C:\Program Files\dotnet\sdk\2.1.302\Sdks
+UseTaskEntryPointForRun: False
+WellKnownProperties has not been loaded yet.
+
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: netstandard, Version=2.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Configuration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Data.SqlXml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Security, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Numerics, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Transactions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.EnterpriseServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.DirectoryServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Runtime.Remoting, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Web.RegularExpressions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Design, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: Accessibility, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Deployment, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Runtime.Serialization.Formatters.Soap, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Data.OracleClient, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Drawing.Design, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Web.ApplicationServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.ComponentModel.DataAnnotations, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.DirectoryServices.Protocols, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.ServiceProcess, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Configuration.Install, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Runtime.Serialization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.ServiceModel.Internals, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: SMDiagnostics, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Web.Services, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: Microsoft.Build.Utilities.v4.0, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: Microsoft.Build.Framework, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Xaml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: Microsoft.Build.Tasks.v4.0, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Runtime.Caching, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Data.Common, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Diagnostics.StackTrace, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Diagnostics.Tracing, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Globalization.Extensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.IO.Compression, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.IO.Compression.FileSystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.ComponentModel.Composition, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Net.Http, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Net.Sockets, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.ValueTuple, Version=4.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Runtime.InteropServices.RuntimeInformation, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Runtime.Serialization.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Runtime.Serialization.Primitives, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Security.Cryptography.Algorithms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Security.SecureString, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Threading.Overlapped, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Xml.Linq, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Xml.XPath.XDocument, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: Microsoft.Win32.Primitives, Version=4.0.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.AppContext, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Collections.Concurrent, Version=4.0.11.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Collections, Version=4.0.11.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Collections.NonGeneric, Version=4.0.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Collections.Specialized, Version=4.0.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.ComponentModel.Composition, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.ComponentModel, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.ComponentModel.EventBasedAsync, Version=4.0.11.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.ComponentModel.Primitives, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.ComponentModel.TypeConverter, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Console, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Data.Common, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Diagnostics.Contracts, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Diagnostics.Debug, Version=4.0.11.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Diagnostics.FileVersionInfo, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Diagnostics.Process, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Diagnostics.StackTrace, Version=4.0.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Diagnostics.TextWriterTraceListener, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Diagnostics.Tools, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Diagnostics.TraceSource, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Diagnostics.Tracing, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Drawing.Primitives, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Dynamic.Runtime, Version=4.0.11.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Globalization.Calendars, Version=4.0.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Globalization, Version=4.0.11.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Globalization.Extensions, Version=4.0.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.IO.Compression, Version=4.1.3.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.IO.Compression.FileSystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.IO.Compression.ZipFile, Version=4.0.3.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.IO, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.IO.FileSystem, Version=4.0.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.IO.FileSystem.DriveInfo, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.IO.FileSystem.Primitives, Version=4.0.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.IO.FileSystem.Watcher, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.IO.IsolatedStorage, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.IO.MemoryMappedFiles, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.IO.Pipes, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.IO.UnmanagedMemoryStream, Version=4.0.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Linq, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Linq.Expressions, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Linq.Parallel, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Linq.Queryable, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Net, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Net.Http, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Net.NameResolution, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Net.NetworkInformation, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Net.Ping, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Net.Primitives, Version=4.0.11.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Net.Requests, Version=4.0.11.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Net.Security, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Net.Sockets, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Net.WebHeaderCollection, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Net.WebSockets.Client, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Net.WebSockets, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Numerics, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.ObjectModel, Version=4.0.11.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Reflection, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Reflection.Extensions, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Reflection.Primitives, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Resources.Reader, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Resources.ResourceManager, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Resources.Writer, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Runtime.CompilerServices.VisualC, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Runtime, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Runtime.Extensions, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Runtime.Handles, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Runtime.InteropServices, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Runtime.InteropServices.RuntimeInformation, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Runtime.Numerics, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Runtime.Serialization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Runtime.Serialization.Formatters, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Runtime.Serialization.Json, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Runtime.Serialization.Primitives, Version=4.1.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Runtime.Serialization.Xml, Version=4.1.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Security.Claims, Version=4.0.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Security.Cryptography.Algorithms, Version=4.2.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Security.Cryptography.Csp, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Security.Cryptography.Encoding, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Security.Cryptography.Primitives, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Security.Cryptography.X509Certificates, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Security.Principal, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Security.SecureString, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.ServiceModel.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Text.Encoding, Version=4.0.11.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Text.Encoding.Extensions, Version=4.0.11.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Text.RegularExpressions, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Threading, Version=4.0.11.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Threading.Overlapped, Version=4.0.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Threading.Tasks, Version=4.0.11.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Threading.Tasks.Parallel, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Threading.Thread, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Threading.ThreadPool, Version=4.0.12.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Threading.Timer, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Transactions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.ValueTuple, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Windows, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Xml.Linq, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Xml.ReaderWriter, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Xml.Serialization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Xml.XDocument, Version=4.0.11.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Xml.XmlDocument, Version=4.0.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Xml.XmlSerializer, Version=4.0.11.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Xml.XPath, Version=4.0.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.209 |V|                               | :1                 | [PMM] Invalidate: System.Xml.XPath.XDocument, Version=4.0.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |I| RiderSolutionLoadProgress     | :1                 | Execute task [FireAssembliesAdded] 'Fire assemblies added'
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: Microsoft.Win32.Primitives, Version=4.0.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: netstandard, Version=2.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: netstandard, Version=2.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Configuration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Data.SqlXml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Security, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Numerics, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Numerics, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Transactions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Transactions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.EnterpriseServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.DirectoryServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Runtime.Remoting, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Web.RegularExpressions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Design, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: Accessibility, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Deployment, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Runtime.Serialization.Formatters.Soap, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Data.OracleClient, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Drawing.Design, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Web.ApplicationServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.ComponentModel.DataAnnotations, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.DirectoryServices.Protocols, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.ServiceProcess, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Configuration.Install, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Runtime.Serialization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Runtime.Serialization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.ServiceModel.Internals, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: SMDiagnostics, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Web.Services, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: Microsoft.Build.Utilities.v4.0, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: Microsoft.Build.Framework, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Xaml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: Microsoft.Build.Tasks.v4.0, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Runtime.Caching, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Data.Common, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Diagnostics.StackTrace, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Diagnostics.Tracing, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Diagnostics.Tracing, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Globalization.Extensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.IO.Compression, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.IO.Compression.FileSystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.IO.Compression.FileSystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.ComponentModel.Composition, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.ComponentModel.Composition, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Net.Http, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Net.Sockets, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.ValueTuple, Version=4.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Runtime.InteropServices.RuntimeInformation, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Runtime.Serialization.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Runtime.Serialization.Primitives, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Security.Cryptography.Algorithms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Security.SecureString, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Threading.Overlapped, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Xml.Linq, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Xml.Linq, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Xml.XPath.XDocument, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.AppContext, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Collections.Concurrent, Version=4.0.11.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Collections, Version=4.0.11.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Collections.NonGeneric, Version=4.0.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Collections.Specialized, Version=4.0.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.ComponentModel, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.ComponentModel.EventBasedAsync, Version=4.0.11.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.ComponentModel.Primitives, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.ComponentModel.TypeConverter, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Console, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Data.Common, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Diagnostics.Contracts, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Diagnostics.Debug, Version=4.0.11.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Diagnostics.FileVersionInfo, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Diagnostics.Process, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Diagnostics.StackTrace, Version=4.0.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Diagnostics.TextWriterTraceListener, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Diagnostics.Tools, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Diagnostics.TraceSource, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Drawing.Primitives, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Dynamic.Runtime, Version=4.0.11.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Globalization.Calendars, Version=4.0.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Globalization, Version=4.0.11.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Globalization.Extensions, Version=4.0.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.IO.Compression, Version=4.1.3.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.IO.Compression.ZipFile, Version=4.0.3.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.IO, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.IO.FileSystem, Version=4.0.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.IO.FileSystem.DriveInfo, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.IO.FileSystem.Primitives, Version=4.0.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.IO.FileSystem.Watcher, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.IO.IsolatedStorage, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.IO.MemoryMappedFiles, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.IO.Pipes, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.IO.UnmanagedMemoryStream, Version=4.0.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Linq, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Linq.Expressions, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Linq.Parallel, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Linq.Queryable, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Net, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Net.Http, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Net.NameResolution, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Net.NetworkInformation, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Net.Ping, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Net.Primitives, Version=4.0.11.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Net.Requests, Version=4.0.11.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Net.Security, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Net.Sockets, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Net.WebHeaderCollection, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Net.WebSockets.Client, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Net.WebSockets, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.ObjectModel, Version=4.0.11.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Reflection, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Reflection.Extensions, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Reflection.Primitives, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Resources.Reader, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Resources.ResourceManager, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Resources.Writer, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Runtime.CompilerServices.VisualC, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Runtime, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Runtime.Extensions, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Runtime.Handles, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Runtime.InteropServices, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Runtime.InteropServices.RuntimeInformation, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Runtime.Numerics, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Runtime.Serialization.Formatters, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Runtime.Serialization.Json, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Runtime.Serialization.Primitives, Version=4.1.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Runtime.Serialization.Xml, Version=4.1.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Security.Claims, Version=4.0.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Security.Cryptography.Algorithms, Version=4.2.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Security.Cryptography.Csp, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Security.Cryptography.Encoding, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Security.Cryptography.Primitives, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Security.Cryptography.X509Certificates, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Security.Principal, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Security.SecureString, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.ServiceModel.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Text.Encoding, Version=4.0.11.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Text.Encoding.Extensions, Version=4.0.11.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Text.RegularExpressions, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Threading, Version=4.0.11.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Threading.Overlapped, Version=4.0.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Threading.Tasks, Version=4.0.11.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Threading.Tasks.Parallel, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Threading.Thread, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Threading.ThreadPool, Version=4.0.12.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Threading.Timer, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.ValueTuple, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Windows, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Xml.ReaderWriter, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Xml.Serialization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Xml.XDocument, Version=4.0.11.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Xml.XmlDocument, Version=4.0.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Xml.XmlSerializer, Version=4.0.11.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.256 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Xml.XPath, Version=4.0.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.271 |V| AssemblyPsiModuleFactory      | :1                 | [PMM] Add: System.Xml.XPath.XDocument, Version=4.0.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+23:29:24.287 |I| RiderSolutionLoadProgress     | :1                 | Execute task [PreparePsiModules] 'JavaScriptExternalFiles.Activate'
+23:29:24.302 |V| NuGetHost                     | JetPool(S) #2:12   | [PS]GetInstalledPackagesAsync for Navigation: List(1) { NETStandard.Library.2.0.3 }
+23:29:24.302 |I| RiderSolutionLoadProgress     | :1                 | Execute task [PreparePsiModules] 'JetBrains.ReSharper.Psi.Web.Impl.PsiModules.WebAssemblyReferenceFactoryAllow resolve references'
+23:29:24.334 |I| RiderSolutionLoadProgress     | :1                 | Execute task [BeforeKickOff] 'Project Model Ready'
+23:29:24.334 |I| RiderSolutionLoadProgress     | :1                 | Execute task [KickOff] 'Kick off'
+23:29:24.349 |I| RiderSolutionLoadProgress     | :1                 | Execute task [StartPsi] 'Loading persistent file indices'
+23:29:24.349 |V| PersistentIndexManager        | :1                 | <PersistentIndexManager.LoadProjectModel>
+23:29:24.380 |I| RiderSolutionLoadProgress     | :1                 | Execute task [StartPsi] 'Start loading caches'
+23:29:24.396 |I| RiderSolutionLoadProgress     | :1                 | Execute task [StartPsi] 'DaemonEnablePolicy'
+23:29:24.412 |V| CacheJobService2              | CacheJobService:51 | <Start> "Job.AddAssemblies" #assemblies = 170
+23:29:24.474 |I| RiderSolutionLoadProgress     | :1                 | Execute task [FinalSynchronizeSolution] 'Update project model for project 'Navigation''
+23:29:24.552 |V| MetadataAssembly              | JetPool(S) #9:19   | Could not load referenced assembly 0x23000002 “System.CodeDom, Version=4.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51” from “C:\Program Files\dotnet\sdk\NuGetFallbackFolder\netstandard.library\2.0.3\build\netstandard2.0\ref\System.dll”.
+23:29:24.646 |V| SolutionHostSync              | :1                 | Update project Navigation [hasProjectDescriptor = True, hasProjectReferencesDescriptor = True, parent = NULL]
+23:29:24.709 |I| RiderSolutionLoadProgress     | :1                 | Execute task [FinalSynchronizeSolution] 'Update project model for project 'misc''
+23:29:24.709 |V| MetadataAssembly              | JetPool(S) #5:15   | Could not load referenced assembly 0x23000002 “Microsoft.Win32.Registry, Version=4.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a” from “C:\Program Files\dotnet\sdk\NuGetFallbackFolder\netstandard.library\2.0.3\build\netstandard2.0\ref\mscorlib.dll”.
+23:29:24.724 |V| SolutionHostSync              | :1                 | Update project misc [hasProjectDescriptor = True, hasProjectReferencesDescriptor = False, parent = NULL]
+23:29:24.724 |V| MetadataAssembly              | JetPool(S) #5:15   | Could not load referenced assembly 0x23000003 “System.Security.Principal.Windows, Version=4.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a” from “C:\Program Files\dotnet\sdk\NuGetFallbackFolder\netstandard.library\2.0.3\build\netstandard2.0\ref\mscorlib.dll”.
+23:29:24.724 |V| MetadataAssembly              | JetPool(S) #5:15   | Could not load referenced assembly 0x23000004 “System.Security.AccessControl, Version=4.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a” from “C:\Program Files\dotnet\sdk\NuGetFallbackFolder\netstandard.library\2.0.3\build\netstandard2.0\ref\mscorlib.dll”.
+23:29:24.755 |I| RiderSolutionLoadProgress     | :1                 | Execute task [FinalSynchronizeSolution] 'Finish project model updating'
+23:29:25.005 |I| RiderSolutionLoadProgress     | :1                 | Execute task [FinalSynchronizeSolution] 'Validate project model'
+23:29:25.177 |I| RiderSolutionLoadProgress     | :1                 | Execute task [RefreshBuildSettings] 'Sync FileSystemTracker'
+23:29:25.177 |V| VfsNotificationHost           | :1                 | Sync file system tracker during solution loading...
+23:29:25.177 |V| CacheJobService2              | CacheJobService:51 | <Finish> "Job.AddAssemblies" #assemblies = 170 time=770ms
+23:29:25.177 |V| CacheJobService2              | CacheJobService:51 | <Start> "Job.LoadCache" #caches=34: GeneratedFilesCache, ConditionalNamesCache, NamedArgumentCache, InternalsVisibleToCache, AnnotatedMembersCache, AssemblyAnnotatedMembersCache, TypeMembersCache, SymbolCache, StubTreeNodeCache, BuildScriptCache, ProtobufFileOptionsCache, ProtobufImportCache, ProtobufDeclarationCache, WebConfigCacheController, TagPrefixCacheImpl, WebSymbolsCache, RazorTagHelperDataCache, RazorNamespaceCache, RazorInheritsCache, RazorNamespaceImportsCache, RazorInjectionsCache, HasSourceFileMapCache, JavaScriptTypeCacheMaintainer, JavaScriptDependentFilesCache, XamlAssemblyResourcesCache, ContentTrigramIndex, SourcesTrigramIndex, MvcCache, SolutionResourceCache, JavaScriptTestCache, RiderTodoManager, RiderDocumentInfoCache, AsmDefNameCache, FileImages
+23:29:25.177 |I| RiderSolutionLoadProgress     | :1                 | Execute task [Done] 'Wait for FileSystemTracker sync'
+23:29:25.177 |V| FileImages                    | CacheJobService:51 | <FileImages.Load>
+23:29:25.193 |V| AbstractPersistentCache       | JetPool(S) #6:16   | [Caches] <APC.Load> 'BuildScriptCache' --- Started ---
+23:29:25.193 |V| AbstractPersistentCache       | JetPool(S) #6:16   | [Caches] <APC.Load> 'BuildScriptCache' --- Finished - OK ---
+23:29:25.224 |V| FileImages                    | CacheJobService:51 | <FileImages.AddAllModulesToDirty>
+23:29:25.224 |V| AbstractPersistentCache       | JetPool(S) #6:16   | [Caches] <APC.Load> 'Web symbols' --- Started ---
+23:29:25.224 |V| AbstractPersistentCache       | JetPool(S) #6:16   | [Caches] <APC.Load> 'Web symbols' --- Finished - OK ---
+23:29:25.240 |V| AbstractPersistentCache       | JetPool(S) #7:17   | [Caches] <APC.Load> 'TagPrefixes' --- Started ---
+23:29:25.240 |V| AbstractPersistentCache       | JetPool(S) #7:17   | [Caches] <APC.Load> 'TagPrefixes' --- Finished - OK ---
+23:29:25.240 |V| AbstractPersistentCache       | JetPool(S) #10:20  | [Caches] <APC.Load> 'FileDependencies' --- Started ---
+23:29:25.240 |V| AbstractPersistentCache       | JetPool(S) #10:20  | [Caches] <APC.Load> 'FileDependencies' --- Finished - OK ---
+23:29:25.255 |V| AbstractPersistentCache       | JetPool(S) #10:20  | [Caches] <APC.Load> 'MVC' --- Started ---
+23:29:25.255 |V| AbstractPersistentCache       | JetPool(S) #4:14   | [Caches] <APC.Load> 'JSTest' --- Started ---
+23:29:25.255 |V| AbstractPersistentCache       | JetPool(S) #4:14   | [Caches] <APC.Load> 'JSTest' --- Finished - OK ---
+23:29:25.255 |V| AbstractPersistentCache       | JetPool(S) #10:20  | [Caches] <APC.Load> 'MVC' --- Finished - OK ---
+23:29:25.349 |V| CacheJobService2              | CacheJobService:51 | <Finish> "Job.LoadCache" #caches=34: GeneratedFilesCache, ConditionalNamesCache, NamedArgumentCache, InternalsVisibleToCache, AnnotatedMembersCache, AssemblyAnnotatedMembersCache, TypeMembersCache, SymbolCache, StubTreeNodeCache, BuildScriptCache, ProtobufFileOptionsCache, ProtobufImportCache, ProtobufDeclarationCache, WebConfigCacheController, TagPrefixCacheImpl, WebSymbolsCache, RazorTagHelperDataCache, RazorNamespaceCache, RazorInheritsCache, RazorNamespaceImportsCache, RazorInjectionsCache, HasSourceFileMapCache, JavaScriptTypeCacheMaintainer, JavaScriptDependentFilesCache, XamlAssemblyResourcesCache, ContentTrigramIndex, SourcesTrigramIndex, MvcCache, SolutionResourceCache, JavaScriptTestCache, RiderTodoManager, RiderDocumentInfoCache, AsmDefNameCache, FileImages time=164ms
+23:29:25.349 |V| CacheJobService2              | CacheJobService:51 | <Start> "Job.UpdateAllProjectFiles" 
+23:29:25.349 |V| VfsNotificationHost           | :1                 | Sync file system tracker completed
+23:29:25.380 |I| RiderSolutionLoadProgress     | :1                 | Execute task [Done] 'Fire solution ready'
+23:29:25.380 |I| RiderSolutionLoadProgress     | :1                 | Execute task [Done] 'SolutionBuilderStartAnalyzeChecker'
+23:29:25.380 |I| RiderSolutionLoadProgress     | :1                 | Execute task [Done] 'Subscribe to SuspendHardOperations'
+23:29:25.396 |V| CacheJobService2              | CacheJobService:51 | All files to update: 2, total files: 5, total modules: 8
+23:29:25.536 |I| RiderSolutionLoadProgress     | :1                 | Execute task [Done] 'Cleanup persistent caches'
+23:29:25.536 |I| RiderSolutionLoadProgress     | :1                 | Execute task [Done] 'PsiModuleAttributeCache::Schedule Updates'
+23:29:25.536 |I| RiderSolutionLoadProgress     | :1                 | Execute task [Done] 'Ready for caches saving'
+23:29:25.552 |V| CacheJobService2              | CacheJobService:51 | <Finish> "Job.UpdateAllProjectFiles"  time=207ms
+23:29:25.552 |V| CacheJobService2              | CacheJobService:51 | <Start> "Job.SaveCaches" #caches=34: GeneratedFilesCache, ConditionalNamesCache, NamedArgumentCache, InternalsVisibleToCache, AnnotatedMembersCache, AssemblyAnnotatedMembersCache, TypeMembersCache, SymbolCache, StubTreeNodeCache, BuildScriptCache, ProtobufFileOptionsCache, ProtobufImportCache, ProtobufDeclarationCache, WebConfigCacheController, TagPrefixCacheImpl, WebSymbolsCache, RazorTagHelperDataCache, RazorNamespaceCache, RazorInheritsCache, RazorNamespaceImportsCache, RazorInjectionsCache, HasSourceFileMapCache, JavaScriptTypeCacheMaintainer, JavaScriptDependentFilesCache, XamlAssemblyResourcesCache, ContentTrigramIndex, SourcesTrigramIndex, MvcCache, SolutionResourceCache, JavaScriptTestCache, RiderTodoManager, RiderDocumentInfoCache, AsmDefNameCache, FileImages
+23:29:25.552 |V| FileImages                    | CacheJobService:51 | <FileImages.Save>
+23:29:25.552 |V| AbstractPersistentCache       | JetPool(S) #2:12   | [Caches] <APC.Save> 'Web symbols' --- Started ---
+23:29:25.552 |V| AbstractPersistentCache       | JetPool(S) #6:16   | [Caches] <APC.Save> 'BuildScriptCache' --- Started ---
+23:29:25.552 |V| AbstractPersistentCache       | JetPool(S) #4:14   | [Caches] <APC.Save> 'TagPrefixes' --- Started ---
+23:29:25.552 |V| AbstractPersistentCache       | JetPool(S) #11:21  | [Caches] <APC.Save> 'MVC' --- Started ---
+23:29:25.552 |V| AbstractPersistentCache       | JetPool(S) #1:11   | [Caches] <APC.Save> 'FileDependencies' --- Started ---
+23:29:25.552 |I| RiderSolutionLoadProgress     | :1                 | Execute task [Done] 'FileDependenciesSynchronizer'
+23:29:25.552 |I| RiderSolutionLoadProgress     | :1                 | Execute task [Done] 'ModulesFilesManager.Init'
+23:29:25.552 |V| AbstractPersistentCache       | JetPool(S) #10:20  | [Caches] <APC.Save> 'JSTest' --- Started ---
+23:29:25.568 |I| RiderSolutionLoadProgress     | :1                 | Execute task [Done] 'Start restore NuGet packages'
+23:29:25.568 |V| ProjectModelMonitor           | :1                 | BeforeNugetRestore
+23:29:25.568 |V| RiderNuGetProjectModelOperations| JetPool(S) #7:17   | Start restoring packages for solution
+23:29:25.568 |V| NuGetHost                     | JetPool(S) #7:17   | Start restoring packages for solution
+23:29:25.568 |V| NuGetOperator                 | JetPool(S) #7:17   | NuGetOperator::IsBusy = True
+23:29:25.568 |V| SuspendHardOperationsManager  | JetPool(S) #7:17   | Suspend Hard Operations mode request from: [NuGetOperator::IsBusy]
+23:29:25.568 |V| SuspendHardOperationsManager  | JetPool(S) #7:17   | ENTER SUSPEND HARD OPERATIONS MODE
+23:29:25.568 |V| NuGetOperator                 | NuGetThread:50     | Operation 'Restore all packages in Solution': start
+23:29:25.568 |I| RiderSolutionLoadProgress     | :1                 | Execute task [Done] 'Sync project view'
+23:29:25.583 |I| RiderSolutionLoadProgress     | :1                 | Execute task [Done] 'SolutionStateTracker'
+23:29:25.583 |V| AbstractPersistentCache       | JetPool(S) #6:16   | [Caches] <APC.Save> 'BuildScriptCache' --- Finished ---
+23:29:25.583 |V| AbstractPersistentCache       | JetPool(S) #10:20  | [Caches] <APC.Save> 'JSTest' --- Finished ---
+23:29:25.583 |V| AbstractPersistentCache       | JetPool(S) #4:14   | [Caches] <APC.Save> 'TagPrefixes' --- Finished ---
+23:29:25.583 |V| AbstractPersistentCache       | JetPool(S) #11:21  | [Caches] <APC.Save> 'MVC' --- Finished ---
+23:29:25.583 |V| AbstractPersistentCache       | JetPool(S) #1:11   | [Caches] <APC.Save> 'FileDependencies' --- Finished ---
+23:29:25.599 |I| RiderSolutionLoadProgress     | :1                 | Execute task [Done] 'Checking for Unity projects'
+23:29:25.599 |I| PathMappingRootProvider       | JetPool(S) #7:17   | Found solution root: C:\code\RiderDemo\Navigation for 10 ms
+23:29:25.615 |I| RiderSolutionLoadProgress     | :1                 | Execute task [AfterDone] 'Complete solution loading'
+23:29:25.615 |I| RiderSolutionManager          | :1                 | Finish solution opening 'RiderDemo'
+23:29:25.615 |V| AbstractPersistentCache       | JetPool(S) #2:12   | [Caches] <APC.Save> 'Web symbols' --- Finished ---
+23:29:25.630 |V| CacheJobService2              | CacheJobService:51 | <Finish> "Job.SaveCaches" #caches=34: GeneratedFilesCache, ConditionalNamesCache, NamedArgumentCache, InternalsVisibleToCache, AnnotatedMembersCache, AssemblyAnnotatedMembersCache, TypeMembersCache, SymbolCache, StubTreeNodeCache, BuildScriptCache, ProtobufFileOptionsCache, ProtobufImportCache, ProtobufDeclarationCache, WebConfigCacheController, TagPrefixCacheImpl, WebSymbolsCache, RazorTagHelperDataCache, RazorNamespaceCache, RazorInheritsCache, RazorNamespaceImportsCache, RazorInjectionsCache, HasSourceFileMapCache, JavaScriptTypeCacheMaintainer, JavaScriptDependentFilesCache, XamlAssemblyResourcesCache, ContentTrigramIndex, SourcesTrigramIndex, MvcCache, SolutionResourceCache, JavaScriptTestCache, RiderTodoManager, RiderDocumentInfoCache, AsmDefNameCache, FileImages time=79ms
+23:29:25.677 |V| ExternalAnnotationModule      | JetPool(S) #2:12   | Target annotations candidates JetBrains.ProjectModel.Impl.ProjectToAssemblyReference (AssemblyName: mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, HintLocation: C:\Program Files\dotnet\sdk\NuGetFallbackFolder\netstandard.library\2.0.3\build\netstandard2.0\ref\mscorlib.dll), ModuleReferenceResolveContext: Navigation:.NETStandard,Version=v2.0; JetBrains.ProjectModel.Impl.ProjectToAssemblyReference (AssemblyName: netstandard, Version=2.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, HintLocation: C:\Program Files\dotnet\sdk\NuGetFallbackFolder\netstandard.library\2.0.3\build\netstandard2.0\ref\netstandard.dll), ModuleReferenceResolveContext: Navigation:.NETStandard,Version=v2.0; JetBrains.ProjectModel.Impl.ProjectToAssemblyReference (AssemblyName: System.Runtime, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, HintLocation: C:\Program Files\dotnet\sdk\NuGetFallbackFolder\netstandard.library\2.0.3\build\netstandard2.0\ref\System.Runtime.dll), ModuleReferenceResolveContext: Navigation:.NETStandard,Version=v2.0
+23:29:25.677 |V| ExternalAnnotationModule      | JetPool(S) #2:12   | Target annotations module for Navigation:.NETStandard,Version=v2.0 from JetBrains.ProjectModel.Impl.ProjectToAssemblyReference (AssemblyName: netstandard, Version=2.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, HintLocation: C:\Program Files\dotnet\sdk\NuGetFallbackFolder\netstandard.library\2.0.3\build\netstandard2.0\ref\netstandard.dll) is ProjectAssemblyPsiModule(Name: netstandard)
+23:29:25.849 |V| UnitTestElementCache          | JetPool(S) #1:11   | Loading unit test elements from 4 projects
+23:29:25.849 |I| InitialExplorationTask        | JetPool(S) #1:11   | Initial unit-test exploration started
+23:29:25.864 |V| UnitTestArtefactExplorationProcess| JetPool(S) #1:11   | Unit-test exploration skipped: Output <C:\code\RiderDemo\Navigation\bin\Debug\netstandard2.0\Navigation.dll> does not exist on disk for project <Navigation> under target framework <.NETStandard,Version=v2.0>
+23:29:25.880 |I| InitialExplorationTask        | JetPool(S) #1:11   | Initial unit-test exploration completed
+23:29:26.036 |V| NuGetHost                     | NuGetThread:50     | @ Restoring packages in solution RiderDemo started
+23:29:26.036 |V| NuGetHost                     | NuGetThread:50     | @   Mode = ErrorOnly, Strategy = Default, Reason = SolutionLoadTask
+23:29:26.036 |V| NuGetHost                     | NuGetThread:50     | @   FeedContext[nuget.org, Microsoft Visual Studio Offline Packages ||| ]
+23:29:26.052 |V| NuGetHost                     | NuGetThread:50     | @   RestoreClassic: Start
+23:29:26.052 |V| NuGetHost                     | NuGetThread:50     | @   There are no packages in solution
+23:29:26.052 |V| NuGetHost                     | NuGetThread:50     | @   RestoreClassic: Finish
+23:29:26.068 |V| NuGetHost                     | NuGetThread:50     | @   RestoreIntegrated: Start
+23:29:26.068 |V| NuGetHost                     | NuGetThread:50     | @   Restoring NuGet packages for integrated projects: start
+23:29:26.068 |V| NuGetHost                     | NuGetThread:50     | [PS]GetPackageSpecsAsync for Navigation (packages: 1)
+23:29:26.130 |V| SolutionTelemetryHost         | :1                 | <Measured> "SolutionLoad[LoadSolutionFromCache]"  time=432ms
+23:29:26.130 |V| SolutionTelemetryHost         | :1                 | <Measured> "SolutionLoad[SolutionContainer]"  time=4081ms
+23:29:26.130 |V| SolutionTelemetryHost         | :1                 | <Measured> "SolutionLoad[FireProjectItemsAdded]"  time=440ms
+23:29:26.130 |V| SolutionTelemetryHost         | :1                 | <Measured> "SolutionLoad[FireAssembliesAdded]"  time=23ms
+23:29:26.130 |V| SolutionTelemetryHost         | :1                 | <Measured> "SolutionLoad[PreparePsiModules]"  time=13ms
+23:29:26.130 |V| SolutionTelemetryHost         | :1                 | <Measured> "SolutionLoad[BeforeKickOff]"  time=0ms
+23:29:26.130 |V| SolutionTelemetryHost         | :1                 | <Measured> "SolutionLoad[KickOff]"  time=15ms
+23:29:26.130 |V| SolutionTelemetryHost         | :1                 | <Measured> "SolutionLoad[StartPsi]"  time=20ms
+23:29:26.130 |V| SolutionTelemetryHost         | :1                 | <Measured> "SolutionLoad[FinalSynchronizeSolution]"  time=510ms
+23:29:26.130 |V| SolutionTelemetryHost         | :1                 | <Measured> "SolutionLoad[RefreshBuildSettings]"  time=2ms
+23:29:26.130 |V| SolutionTelemetryHost         | :1                 | <Measured> "SolutionLoad[Done]"  time=24ms
+23:29:26.130 |V| SolutionTelemetryHost         | :1                 | <Measured> "SolutionLoad[AfterDone]"  time=31ms
+23:29:26.130 |V| NuGetHost                     | NuGetThread:50     | @   NetCoreRestoreEngine = RiderClassic
+23:29:26.239 |V| NuGetHost                     | NuGetThread:50     | Running restore with 12 concurrent jobs.
+23:29:26.239 |V| NuGetHost                     | :55                | Reading project file C:\code\RiderDemo\Navigation\Navigation.csproj.
+23:29:26.317 |V| NuGetHost                     | :55                | The restore inputs for 'Navigation' have not changed. No further actions are required to complete the restore.
+23:29:26.333 |V| NuGetHost                     | :55                | Committing restore...
+23:29:26.333 |V| NuGetHost                     | :55                | Assets file has not changed. Skipping assets file writing. Path: C:\code\RiderDemo\Navigation\obj\project.assets.json
+23:29:26.333 |V| NuGetHost                     | :55                | No-Op restore. The cache will not be updated. Path: C:\code\RiderDemo\Navigation\obj\Navigation.csproj.nuget.cache
+23:29:26.333 |V| NuGetHost                     | :55                | Restore completed in 27,77 ms for C:\code\RiderDemo\Navigation\Navigation.csproj.
+23:29:26.333 |V| NuGetHost                     | :55                | @   Restoring NuGet packages for integrated projects: finish
+23:29:26.333 |V| NuGetHost                     | :55                | @   RestoreIntegrated: Finish
+23:29:26.333 |V| NuGetHost                     | :55                | @   Project 'Navigation' is NOT affected because NoOpRestore = true
+23:29:26.333 |V| NuGetHost                     | :55                | @   Restore result: <Empty>
+23:29:26.349 |V| NuGetHost                     | :55                | @ Restoring packages in solution RiderDemo finished (0,301 sec)
+23:29:26.442 |V| SolutionLoadStatistics        | :1                 | Solution load: 5602 ms. 52 tasks. Max time: 4012 ms "Create Solution Container Task"
+23:29:26.442 |V| SolutionLoadStatistics        | :1                 |   LoadSolutionFromCache: 432 ms. 1 tasks. Max time: 432 ms "Load Solution From Cache"
+23:29:26.442 |V| SolutionLoadStatistics        | :1                 |   SolutionContainer: 4081 ms. 7 tasks. Max time: 4012 ms "Create Solution Container Task"
+23:29:26.442 |V| SolutionLoadStatistics        | :1                 |   FireProjectItemsAdded: 440 ms. 2 tasks. Max time: 440 ms "Raise All Projects Added Task"
+23:29:26.442 |V| SolutionLoadStatistics        | :1                 |   FireAssembliesAdded: 23 ms. 1 tasks. Max time: 23 ms "Fire assemblies added"
+23:29:26.442 |V| SolutionLoadStatistics        | :1                 |   PreparePsiModules: 13 ms. 2 tasks. Max time: 12 ms "JavaScriptExternalFiles.Activate"
+23:29:26.442 |V| SolutionLoadStatistics        | :1                 |   BeforeKickOff: 0 ms. 1 tasks. Max time: 0 ms "Project Model Ready"
+23:29:26.442 |V| SolutionLoadStatistics        | :1                 |   KickOff: 15 ms. 1 tasks. Max time: 15 ms "Kick off"
+23:29:26.442 |V| SolutionLoadStatistics        | :1                 |   StartPsi: 20 ms. 3 tasks. Max time: 14 ms "Loading persistent file indices"
+23:29:26.442 |V| SolutionLoadStatistics        | :1                 |   FinalSynchronizeSolution: 510 ms. 4 tasks. Max time: 259 ms "Finish project model updating"
+23:29:26.442 |V| SolutionLoadStatistics        | :1                 |   RefreshBuildSettings: 2 ms. 1 tasks. Max time: 2 ms "Sync FileSystemTracker"
+23:29:26.442 |V| SolutionLoadStatistics        | :1                 |   Done: 24 ms. 12 tasks. Max time: 7 ms "SolutionStateTracker"
+23:29:26.442 |V| SolutionLoadStatistics        | :1                 |   AfterDone: 38 ms. 17 tasks. Max time: 20 ms "Complete solution loading"
+23:29:26.474 |I| ShellHost                     | :1                 | ShellHost is ready
+23:29:26.521 |V| NuGetOperator                 | NuGetThread:50     | Operation 'Restore all packages in Solution': finish
+23:29:26.521 |V| NuGetHost                     | NuGetThread:50     | Finish restoring packages for solution
+23:29:26.521 |V| RiderNuGetProjectModelOperations| NuGetThread:50     | Finish restoring packages for solution
+23:29:26.521 |V| NuGetOperator                 | NuGetThread:50     | NuGetOperator::IsBusy = False
+23:29:26.521 |V| SuspendHardOperationsManager  | NuGetThread:50     | RELEASE SUSPEND HARD OPERATIONS
+23:29:26.521 |V| SuspendHardOperationsManager  | NuGetThread:50     | Release Hard Operations mode request from: [NuGetOperator::IsBusy]
+23:29:26.536 |V| ProjectModelMonitor           | :1                 | AfterNugetRestore
+23:29:26.536 |V| ProjectModelMonitor           | :1                 | IsProjectModelReady -> True [ProjectModel: True, NuGet operations: 0]
+23:29:26.536 |V| RiderNuGetListener            | :1                 | Set NuGetSolution.IsLoaded
+23:29:26.567 |I| SolutionLifecycleHost         | :1                 | [SolutionLifecycleHost] Set 'Ready' command
+23:29:26.583 |V| SolutionAnalysisHost          | :1                 | Updating procotol paused state from SWEA to False
+23:29:27.110 |V| EnvMonoPathProvider           | :1                 | Mono in path not found
+23:29:27.141 |V| RiderApplicationRuntime       | :1                 | Mono path in settings not found try to fallback to first detected mono runtime
+23:29:27.141 |V| EnvMonoPathProvider           | :1                 | Mono in path not found
+23:29:27.157 |V| RiderApplicationRuntime       | :1                 | Load mono runtime: RootPath: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge, ExePath: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\bin\mono.exe from settings
+23:29:27.157 |V| RiderApplicationRuntime       | :1                 | .NET CLI path in settings not found try to fallback to first detected .NET CLI runtime
+23:29:27.157 |V| RiderApplicationRuntime       | :1                 | Load .NET CLI runtime: C:\Program Files\dotnet from settings
+23:29:27.157 |V| BuildToolContainer            | :1                 | Start build tool discovering in environment: AutoDetectorInfo: RiderDemo, MonoRootPath: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge, ActiveDotNetCoreCli: Cli: .NET CLI[	
+SdksFolder: C:\Program Files\dotnet\sdk,
+	ExePath: C:\Program Files\dotnet\dotnet.exe
+	InstalationFolder: C:\Program Files\dotnet
+	Sdks: [2.1.202, 2.1.302]],
+Sdk: 2.1.302
+23:29:27.157 |V| RegistryMsBuildToolProvider   | :1                 | Start build tool discover int registry: SOFTWARE\WOW6432Node\Microsoft\MSBuild\ToolsVersions
+23:29:27.157 |V| RegistryMsBuildToolProvider   | :1                 | Try to discover xBuild from registry key: 2.0
+23:29:27.157 |V| RegistryMsBuildToolProvider   | :1                 | Try to discover xBuild from registry key: 3.5
+23:29:27.157 |V| RegistryMsBuildToolProvider   | :1                 | Try to discover xBuild from registry key: 4.0
+23:29:27.157 |V| RegistryMsBuildToolProvider   | :1                 | Found MSBuild: C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe
+23:29:27.157 |V| VisualStudio15MsBuildToolProvider| :1                 | Try to discover MSBuild in installed VS15
+23:29:27.157 |V| DevenvHostDiscovery           | :1                 | Enumerating installed VS versions the classic machine way.
+23:29:27.157 |V| DevenvHostDiscovery           | :1                 | VS 10.0 has related keys but no installdir in the Registry.
+23:29:27.157 |V| DevenvHostDiscovery           | :1                 | VS 12.0 has related keys but no installdir in the Registry.
+23:29:27.157 |V| DevenvHostDiscovery           | :1                 | VS 14.0 has related keys but no installdir in the Registry.
+23:29:27.157 |V| DevenvHostDiscovery           | :1                 | Skipping discovered classic VS version 15.0 because it's not whitelisted.
+23:29:27.157 |V| DevenvHostDiscovery           | :1                 | VS 8.0 has related keys but no installdir in the Registry.
+23:29:27.157 |V| DevenvHostDiscovery           | :1                 | Attempting to create an instance of the VS Setup Configuration interface.
+23:29:27.157 |V| DevenvHostDiscovery           | :1                 | Successfully created an instance of the VS Setup Configuration interface.
+23:29:27.157 |V| DevenvHostDiscovery           | :1                 | Enumerating complete VS Product Instances.
+23:29:27.157 |V| DevenvHostDiscovery           | :1                 | Done with enumerating complete VS Product Instances.
+23:29:27.157 |V| DevenvHostDiscovery           | :1                 | Enumerating all VS Product Instances.
+23:29:27.157 |V| DevenvHostDiscovery           | :1                 | Done with enumerating all VS Product Instances.
+23:29:27.157 |V| DevenvHostDiscovery           | :1                 | InstalledVs 15.0_bd617ca9 Incomplete=False InstallDir “C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE” ver 15.7.27703.2047 aka VS2017 aka “Visual Studio Professional 2017” packages [<NULL>].
+23:29:27.157 |V| VisualStudio15MsBuildToolProvider| :1                 | Try to discover MSBuild in folder: VS 15.0_bd617ca9 @ “C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE”
+23:29:27.157 |V| VisualStudio15MsBuildToolProvider| :1                 | Found MSBuild: C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\MSBuild\15.0\Bin\MSBuild.exe
+23:29:27.157 |V| DotNetCoreMsBuildProvider     | :1                 | Found MSBuild in SDK: C:\Program Files\dotnet\sdk\2.1.302\MSBuild.dll
+23:29:27.157 |V| MonoXBuildToolProvider        | :1                 | Skip build tool discover on Windows.
+23:29:27.157 |V| BuildToolContainer            | :1                 | Dicover found 3 build tools
+23:29:27.157 |V| BuildToolContainer            | :1                 | Discovered build tool:
+Type: JetBrains.ProjectModel.MSBuild.BuildTools.MsBuildTool
+Version: 4.0
+Directory: C:\Windows\Microsoft.NET\Framework\v4.0.30319
+ExePath: C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe
+EnvironmentVariables:
+	MSBuildSDKsPath=C:\Program Files\dotnet\sdk\2.1.302\Sdks\
+UseTaskEntryPointForRun: False
+WellKnownProperties has not been loaded yet.
+
+23:29:27.157 |V| BuildToolContainer            | :1                 | Discovered build tool:
+Type: JetBrains.ProjectModel.MSBuild.BuildTools.MsBuildTool
+Version: 15.0
+Directory: C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\MSBuild\15.0\Bin
+ExePath: C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\MSBuild\15.0\Bin\MSBuild.exe
+EnvironmentVariables:
+	DOTNET_MSBUILD_SDK_RESOLVER_CLI_DIR=C:\Program Files\dotnet
+	MONO_ANDROID_PATH=C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\MSBuild\Xamarin\Android
+UseTaskEntryPointForRun: False
+WellKnownProperties has not been loaded yet.
+
+23:29:27.157 |V| BuildToolContainer            | :1                 | Discovered build tool:
+Type: JetBrains.ReSharper.Host.Features.Toolset.DotNetCoreMsBuild
+Version: 15.0
+Directory: C:\Program Files\dotnet\sdk\2.1.302
+ExePath: C:\Program Files\dotnet\sdk\2.1.302\MSBuild.dll
+EnvironmentVariables:
+	MSBuildExtensionsPath=C:\Program Files\dotnet\sdk\2.1.302
+	DOTNET_HOST_PATH=C:\Program Files\dotnet\dotnet.exe
+	MSBuildSDKsPath=C:\Program Files\dotnet\sdk\2.1.302\Sdks
+UseTaskEntryPointForRun: False
+WellKnownProperties has not been loaded yet.
+
+23:29:27.157 |V| BuildToolContainer            | :1                 | Start build tool discovering in environment: AutoDetectorInfo: RiderDemo, MonoRootPath: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge, ActiveDotNetCoreCli: Cli: .NET CLI[	
+SdksFolder: C:\Program Files\dotnet\sdk,
+	ExePath: C:\Program Files\dotnet\dotnet.exe
+	InstalationFolder: C:\Program Files\dotnet
+	Sdks: [2.1.202, 2.1.302]],
+Sdk: 2.1.302
+23:29:27.157 |V| RegistryMsBuildToolProvider   | :1                 | Start build tool discover int registry: SOFTWARE\WOW6432Node\Microsoft\MSBuild\ToolsVersions
+23:29:27.157 |V| RegistryMsBuildToolProvider   | :1                 | Try to discover xBuild from registry key: 2.0
+23:29:27.157 |V| RegistryMsBuildToolProvider   | :1                 | Try to discover xBuild from registry key: 3.5
+23:29:27.157 |V| RegistryMsBuildToolProvider   | :1                 | Try to discover xBuild from registry key: 4.0
+23:29:27.157 |V| RegistryMsBuildToolProvider   | :1                 | Found MSBuild: C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe
+23:29:27.157 |V| VisualStudio15MsBuildToolProvider| :1                 | Try to discover MSBuild in installed VS15
+23:29:27.157 |V| DevenvHostDiscovery           | :1                 | Enumerating installed VS versions the classic machine way.
+23:29:27.157 |V| DevenvHostDiscovery           | :1                 | VS 10.0 has related keys but no installdir in the Registry.
+23:29:27.157 |V| DevenvHostDiscovery           | :1                 | VS 12.0 has related keys but no installdir in the Registry.
+23:29:27.157 |V| DevenvHostDiscovery           | :1                 | VS 14.0 has related keys but no installdir in the Registry.
+23:29:27.157 |V| DevenvHostDiscovery           | :1                 | Skipping discovered classic VS version 15.0 because it's not whitelisted.
+23:29:27.157 |V| DevenvHostDiscovery           | :1                 | VS 8.0 has related keys but no installdir in the Registry.
+23:29:27.157 |V| DevenvHostDiscovery           | :1                 | Attempting to create an instance of the VS Setup Configuration interface.
+23:29:27.157 |V| DevenvHostDiscovery           | :1                 | Successfully created an instance of the VS Setup Configuration interface.
+23:29:27.157 |V| DevenvHostDiscovery           | :1                 | Enumerating complete VS Product Instances.
+23:29:27.157 |V| DevenvHostDiscovery           | :1                 | Done with enumerating complete VS Product Instances.
+23:29:27.157 |V| DevenvHostDiscovery           | :1                 | Enumerating all VS Product Instances.
+23:29:27.157 |V| DevenvHostDiscovery           | :1                 | Done with enumerating all VS Product Instances.
+23:29:27.157 |V| DevenvHostDiscovery           | :1                 | InstalledVs 15.0_bd617ca9 Incomplete=False InstallDir “C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE” ver 15.7.27703.2047 aka VS2017 aka “Visual Studio Professional 2017” packages [<NULL>].
+23:29:27.157 |V| VisualStudio15MsBuildToolProvider| :1                 | Try to discover MSBuild in folder: VS 15.0_bd617ca9 @ “C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE”
+23:29:27.157 |V| VisualStudio15MsBuildToolProvider| :1                 | Found MSBuild: C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\MSBuild\15.0\Bin\MSBuild.exe
+23:29:27.157 |V| DotNetCoreMsBuildProvider     | :1                 | Found MSBuild in SDK: C:\Program Files\dotnet\sdk\2.1.302\MSBuild.dll
+23:29:27.157 |V| MonoXBuildToolProvider        | :1                 | Skip build tool discover on Windows.
+23:29:27.157 |V| BuildToolContainer            | :1                 | Dicover found 3 build tools
+23:29:27.157 |V| BuildToolContainer            | :1                 | Discovered build tool:
+Type: JetBrains.ProjectModel.MSBuild.BuildTools.MsBuildTool
+Version: 4.0
+Directory: C:\Windows\Microsoft.NET\Framework\v4.0.30319
+ExePath: C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe
+EnvironmentVariables:
+	MSBuildSDKsPath=C:\Program Files\dotnet\sdk\2.1.302\Sdks\
+UseTaskEntryPointForRun: False
+WellKnownProperties has not been loaded yet.
+
+23:29:27.157 |V| BuildToolContainer            | :1                 | Discovered build tool:
+Type: JetBrains.ProjectModel.MSBuild.BuildTools.MsBuildTool
+Version: 15.0
+Directory: C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\MSBuild\15.0\Bin
+ExePath: C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\MSBuild\15.0\Bin\MSBuild.exe
+EnvironmentVariables:
+	DOTNET_MSBUILD_SDK_RESOLVER_CLI_DIR=C:\Program Files\dotnet
+	MONO_ANDROID_PATH=C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\MSBuild\Xamarin\Android
+UseTaskEntryPointForRun: False
+WellKnownProperties has not been loaded yet.
+
+23:29:27.157 |V| BuildToolContainer            | :1                 | Discovered build tool:
+Type: JetBrains.ReSharper.Host.Features.Toolset.DotNetCoreMsBuild
+Version: 15.0
+Directory: C:\Program Files\dotnet\sdk\2.1.302
+ExePath: C:\Program Files\dotnet\sdk\2.1.302\MSBuild.dll
+EnvironmentVariables:
+	MSBuildExtensionsPath=C:\Program Files\dotnet\sdk\2.1.302
+	DOTNET_HOST_PATH=C:\Program Files\dotnet\dotnet.exe
+	MSBuildSDKsPath=C:\Program Files\dotnet\sdk\2.1.302\Sdks
+UseTaskEntryPointForRun: False
+WellKnownProperties has not been loaded yet.
+
+23:29:27.157 |V| BuildToolContainer            | :1                 | Autodetect: run auto detector
+23:29:27.157 |V| BuildToolContainer            | :1                 | Start build tool discovering in environment: AutoDetectorInfo: RiderDemo, MonoRootPath: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge, ActiveDotNetCoreCli: Cli: .NET CLI[	
+SdksFolder: C:\Program Files\dotnet\sdk,
+	ExePath: C:\Program Files\dotnet\dotnet.exe
+	InstalationFolder: C:\Program Files\dotnet
+	Sdks: [2.1.202, 2.1.302]],
+Sdk: 2.1.302
+23:29:27.157 |V| RegistryMsBuildToolProvider   | :1                 | Start build tool discover int registry: SOFTWARE\WOW6432Node\Microsoft\MSBuild\ToolsVersions
+23:29:27.157 |V| RegistryMsBuildToolProvider   | :1                 | Try to discover xBuild from registry key: 2.0
+23:29:27.157 |V| RegistryMsBuildToolProvider   | :1                 | Try to discover xBuild from registry key: 3.5
+23:29:27.157 |V| RegistryMsBuildToolProvider   | :1                 | Try to discover xBuild from registry key: 4.0
+23:29:27.157 |V| RegistryMsBuildToolProvider   | :1                 | Found MSBuild: C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe
+23:29:27.157 |V| VisualStudio15MsBuildToolProvider| :1                 | Try to discover MSBuild in installed VS15
+23:29:27.157 |V| DevenvHostDiscovery           | :1                 | Enumerating installed VS versions the classic machine way.
+23:29:27.157 |V| DevenvHostDiscovery           | :1                 | VS 10.0 has related keys but no installdir in the Registry.
+23:29:27.157 |V| DevenvHostDiscovery           | :1                 | VS 12.0 has related keys but no installdir in the Registry.
+23:29:27.157 |V| DevenvHostDiscovery           | :1                 | VS 14.0 has related keys but no installdir in the Registry.
+23:29:27.157 |V| DevenvHostDiscovery           | :1                 | Skipping discovered classic VS version 15.0 because it's not whitelisted.
+23:29:27.157 |V| DevenvHostDiscovery           | :1                 | VS 8.0 has related keys but no installdir in the Registry.
+23:29:27.157 |V| DevenvHostDiscovery           | :1                 | Attempting to create an instance of the VS Setup Configuration interface.
+23:29:27.157 |V| DevenvHostDiscovery           | :1                 | Successfully created an instance of the VS Setup Configuration interface.
+23:29:27.157 |V| DevenvHostDiscovery           | :1                 | Enumerating complete VS Product Instances.
+23:29:27.157 |V| DevenvHostDiscovery           | :1                 | Done with enumerating complete VS Product Instances.
+23:29:27.157 |V| DevenvHostDiscovery           | :1                 | Enumerating all VS Product Instances.
+23:29:27.157 |V| DevenvHostDiscovery           | :1                 | Done with enumerating all VS Product Instances.
+23:29:27.157 |V| DevenvHostDiscovery           | :1                 | InstalledVs 15.0_bd617ca9 Incomplete=False InstallDir “C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE” ver 15.7.27703.2047 aka VS2017 aka “Visual Studio Professional 2017” packages [<NULL>].
+23:29:27.157 |V| VisualStudio15MsBuildToolProvider| :1                 | Try to discover MSBuild in folder: VS 15.0_bd617ca9 @ “C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE”
+23:29:27.157 |V| VisualStudio15MsBuildToolProvider| :1                 | Found MSBuild: C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\MSBuild\15.0\Bin\MSBuild.exe
+23:29:27.157 |V| DotNetCoreMsBuildProvider     | :1                 | Found MSBuild in SDK: C:\Program Files\dotnet\sdk\2.1.302\MSBuild.dll
+23:29:27.157 |V| MonoXBuildToolProvider        | :1                 | Skip build tool discover on Windows.
+23:29:27.157 |V| BuildToolContainer            | :1                 | Dicover found 3 build tools
+23:29:27.157 |V| BuildToolContainer            | :1                 | Discovered build tool:
+Type: JetBrains.ProjectModel.MSBuild.BuildTools.MsBuildTool
+Version: 4.0
+Directory: C:\Windows\Microsoft.NET\Framework\v4.0.30319
+ExePath: C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe
+EnvironmentVariables:
+	MSBuildSDKsPath=C:\Program Files\dotnet\sdk\2.1.302\Sdks\
+UseTaskEntryPointForRun: False
+WellKnownProperties has not been loaded yet.
+
+23:29:27.157 |V| BuildToolContainer            | :1                 | Discovered build tool:
+Type: JetBrains.ProjectModel.MSBuild.BuildTools.MsBuildTool
+Version: 15.0
+Directory: C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\MSBuild\15.0\Bin
+ExePath: C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\MSBuild\15.0\Bin\MSBuild.exe
+EnvironmentVariables:
+	DOTNET_MSBUILD_SDK_RESOLVER_CLI_DIR=C:\Program Files\dotnet
+	MONO_ANDROID_PATH=C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\MSBuild\Xamarin\Android
+UseTaskEntryPointForRun: False
+WellKnownProperties has not been loaded yet.
+
+23:29:27.157 |V| BuildToolContainer            | :1                 | Discovered build tool:
+Type: JetBrains.ReSharper.Host.Features.Toolset.DotNetCoreMsBuild
+Version: 15.0
+Directory: C:\Program Files\dotnet\sdk\2.1.302
+ExePath: C:\Program Files\dotnet\sdk\2.1.302\MSBuild.dll
+EnvironmentVariables:
+	MSBuildExtensionsPath=C:\Program Files\dotnet\sdk\2.1.302
+	DOTNET_HOST_PATH=C:\Program Files\dotnet\dotnet.exe
+	MSBuildSDKsPath=C:\Program Files\dotnet\sdk\2.1.302\Sdks
+UseTaskEntryPointForRun: False
+WellKnownProperties has not been loaded yet.
+
+23:29:27.376 |V| CSharpInteractiveDetector     | :1                 | Start detecting C# Interactive tool path...
+23:29:27.376 |V| CSharpInteractiveDetector     | :1                 | Scan BuildToolContainer paths...
+23:29:27.376 |V| BuildToolContainer            | :1                 | Start build tool discovering in environment: AutoDetectorInfo: null, MonoRootPath: , ActiveDotNetCoreCli: 
+23:29:27.376 |V| RegistryMsBuildToolProvider   | :1                 | Start build tool discover int registry: SOFTWARE\WOW6432Node\Microsoft\MSBuild\ToolsVersions
+23:29:27.391 |V| RegistryMsBuildToolProvider   | :1                 | Try to discover xBuild from registry key: 2.0
+23:29:27.391 |V| RegistryMsBuildToolProvider   | :1                 | Try to discover xBuild from registry key: 3.5
+23:29:27.391 |V| RegistryMsBuildToolProvider   | :1                 | Try to discover xBuild from registry key: 4.0
+23:29:27.391 |V| RegistryMsBuildToolProvider   | :1                 | Found MSBuild: C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe
+23:29:27.391 |V| VisualStudio15MsBuildToolProvider| :1                 | Try to discover MSBuild in installed VS15
+23:29:27.391 |V| DevenvHostDiscovery           | :1                 | Enumerating installed VS versions the classic machine way.
+23:29:27.391 |V| DevenvHostDiscovery           | :1                 | VS 10.0 has related keys but no installdir in the Registry.
+23:29:27.391 |V| DevenvHostDiscovery           | :1                 | VS 12.0 has related keys but no installdir in the Registry.
+23:29:27.391 |V| DevenvHostDiscovery           | :1                 | VS 14.0 has related keys but no installdir in the Registry.
+23:29:27.391 |V| DevenvHostDiscovery           | :1                 | Skipping discovered classic VS version 15.0 because it's not whitelisted.
+23:29:27.391 |V| DevenvHostDiscovery           | :1                 | VS 8.0 has related keys but no installdir in the Registry.
+23:29:27.391 |V| DevenvHostDiscovery           | :1                 | Attempting to create an instance of the VS Setup Configuration interface.
+23:29:27.391 |V| DevenvHostDiscovery           | :1                 | Successfully created an instance of the VS Setup Configuration interface.
+23:29:27.391 |V| DevenvHostDiscovery           | :1                 | Enumerating complete VS Product Instances.
+23:29:27.391 |V| DevenvHostDiscovery           | :1                 | Done with enumerating complete VS Product Instances.
+23:29:27.391 |V| DevenvHostDiscovery           | :1                 | Enumerating all VS Product Instances.
+23:29:27.391 |V| DevenvHostDiscovery           | :1                 | Done with enumerating all VS Product Instances.
+23:29:27.391 |V| DevenvHostDiscovery           | :1                 | InstalledVs 15.0_bd617ca9 Incomplete=False InstallDir “C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE” ver 15.7.27703.2047 aka VS2017 aka “Visual Studio Professional 2017” packages [<NULL>].
+23:29:27.391 |V| VisualStudio15MsBuildToolProvider| :1                 | Try to discover MSBuild in folder: VS 15.0_bd617ca9 @ “C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE”
+23:29:27.391 |V| VisualStudio15MsBuildToolProvider| :1                 | Found MSBuild: C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\MSBuild\15.0\Bin\MSBuild.exe
+23:29:27.391 |V| MonoXBuildToolProvider        | :1                 | Skip build tool discover on Windows.
+23:29:27.391 |V| BuildToolContainer            | :1                 | Dicover found 2 build tools
+23:29:27.391 |V| BuildToolContainer            | :1                 | Discovered build tool:
+Type: JetBrains.ProjectModel.MSBuild.BuildTools.MsBuildTool
+Version: 4.0
+Directory: C:\Windows\Microsoft.NET\Framework\v4.0.30319
+ExePath: C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe
+EnvironmentVariables:
+UseTaskEntryPointForRun: False
+WellKnownProperties has not been loaded yet.
+
+23:29:27.391 |V| BuildToolContainer            | :1                 | Discovered build tool:
+Type: JetBrains.ProjectModel.MSBuild.BuildTools.MsBuildTool
+Version: 15.0
+Directory: C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\MSBuild\15.0\Bin
+ExePath: C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\MSBuild\15.0\Bin\MSBuild.exe
+EnvironmentVariables:
+	MONO_ANDROID_PATH=C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\MSBuild\Xamarin\Android
+UseTaskEntryPointForRun: False
+WellKnownProperties has not been loaded yet.
+
+23:29:27.391 |I| CSharpInteractiveDetector     | :1                 | Detected C# Interactive tool path from BuildToolContainer: C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\MSBuild\15.0\Bin\Roslyn\csi.exe
+23:29:27.610 |V| AggregatedSolutionBuilderConfigurationReloadTracker| :1                 | Set new reloading state True. tracker JetBrains.ReSharper.Features.SolBuilderDuo.Services.ProjectsPersistentKeeper
+23:29:27.610 |V| RiderIncrementalRunner        | :1                 | RecalculateState. inputs. isEnabledInSettings=True, applicabilityState.IsApplicable=True, isAvailableMixin=True, isConfigurationConsistent=False, isWaitingSolutionLoaded=True, calculationFinished=False, currentBuilderState=None
+23:29:27.610 |V| RiderIncrementalRunner        | :1                 | RecalculateState. newValues. isAvailableValue=True, isReadyValue=False
+23:29:27.610 |V| RiderIncrementalRunner        | :1                 | RecalculateState. inputs. isEnabledInSettings=True, applicabilityState.IsApplicable=True, isAvailableMixin=True, isConfigurationConsistent=True, isWaitingSolutionLoaded=True, calculationFinished=False, currentBuilderState=None
+23:29:27.610 |V| RiderIncrementalRunner        | :1                 | RecalculateState. newValues. isAvailableValue=True, isReadyValue=False
+23:29:27.610 |V| AggregatedSolutionBuilderConfigurationReloadTracker| :1                 | Set new reloading state True. tracker JetBrains.ReSharper.Features.SolBuilderDuo.Services.ChangingTracking.Inputs.SolutionBuilderCache
+23:29:27.610 |V| SolutionBuilderFileAnalyzer   | :1                 | New value: True. calculationFinished: True, idleValue: True
+23:29:27.610 |V| RiderIncrementalRunner        | :1                 | RecalculateState. inputs. isEnabledInSettings=True, applicabilityState.IsApplicable=True, isAvailableMixin=True, isConfigurationConsistent=True, isWaitingSolutionLoaded=True, calculationFinished=True, currentBuilderState=None
+23:29:27.610 |V| RiderIncrementalRunner        | :1                 | RecalculateState. newValues. isAvailableValue=True, isReadyValue=False
+23:29:27.610 |V| RiderIncrementalRunner        | :1                 | RecalculateState. inputs. isEnabledInSettings=True, applicabilityState.IsApplicable=True, isAvailableMixin=True, isConfigurationConsistent=True, isWaitingSolutionLoaded=False, calculationFinished=True, currentBuilderState=None
+23:29:27.610 |V| RiderIncrementalRunner        | :1                 | RecalculateState. newValues. isAvailableValue=True, isReadyValue=False
+23:29:27.657 |V| ProjectModelPreloadedRunnerConfigurator| JetPool(S) #1:11   | Runners will be used: 
+23:29:27.657 |V| RiderSolutionAnalysisServiceImpl| DaemonThread:52    | [SWEA] Loading started
+23:29:27.657 |V| RiderIncrementalRunner        | :1                 | RecalculateState. inputs. isEnabledInSettings=True, applicabilityState.IsApplicable=True, isAvailableMixin=True, isConfigurationConsistent=True, isWaitingSolutionLoaded=False, calculationFinished=True, currentBuilderState=None
+23:29:27.657 |V| RiderIncrementalRunner        | :1                 | RecalculateState. newValues. isAvailableValue=True, isReadyValue=False
+23:29:27.657 |V| AggregatedSolutionBuilderConfigurationReloadTracker| :1                 | Set new reloading state True. tracker JetBrains.ReSharper.Features.SolBuilderDuo.Services.CopyLocalHandling.CopyLocalFileService
+23:29:27.657 |V| AggregatedSolutionBuilderConfigurationReloadTracker| :1                 | Set new reloading state True. tracker JetBrains.ReSharper.Features.SolBuilderDuo.Services.ChangingTracking.Inputs.SolutionBuilderCache
+23:29:27.657 |V| AggregatedSolutionBuilderConfigurationReloadTracker| :1                 | Set new reloading state True. tracker JetBrains.ReSharper.Features.SolBuilderDuo.Services.ChangingTracking.Inputs.SolutionBuilderCache
+23:29:27.657 |V| AggregatedSolutionBuilderConfigurationReloadTracker| :1                 | Set new reloading state True. tracker JetBrains.ReSharper.Features.SolBuilderDuo.Model.Commands.SolutionBuilderPersistentDataLoadedCommandSolutionBuilderConfigurationReloadTracker
+23:29:27.657 |V| RiderIncrementalRunner        | :1                 | SetNewState. isAvailableValue=True, isReadyValue=False
+23:29:27.657 |V| RiderIncrementalRunner        | :1                 | SetNewState. isAvailableValue=True, isReadyValue=False
+23:29:27.657 |V| RiderIncrementalRunner        | :1                 | SetNewState. isAvailableValue=True, isReadyValue=False
+23:29:27.657 |V| RiderIncrementalRunner        | :1                 | SetNewState. isAvailableValue=True, isReadyValue=False
+23:29:27.672 |I| PreloadedCoverageTaskRunnersPool| :1                 | Runner list updated: 0 runners created, 0 runners killed. Total runners: 0
+23:29:27.672 |V| RiderIncrementalRunner        | :1                 | SetNewState. isAvailableValue=True, isReadyValue=False
+23:29:27.672 |V| DependencyManager             | DaemonThread:52    | <DependencyManager.Load> InvalidatedCount: 0
+23:29:27.688 |V| ProjectsGraphByBuildDependenciesBuilder| SolutionBuilderControllerPrototype_Executor:53 | can't find project dependencies for project: C:\code\RiderDemo\Navigation\Navigation.csproj
+23:29:27.735 |V| SolutionAnalysisHost          | DaemonThread:52    | Updating SWEA loaded from protocol to to True
+23:29:27.860 |V| RiderSolutionAnalysisServiceImpl| DaemonThread:52    | [SWEA] Loading completed
+23:29:27.860 |V| RiderIncrementalRunner        | :1                 | RecalculateState. inputs. isEnabledInSettings=True, applicabilityState.IsApplicable=True, isAvailableMixin=True, isConfigurationConsistent=True, isWaitingSolutionLoaded=False, calculationFinished=True, currentBuilderState=Inited
+23:29:27.860 |V| RiderIncrementalRunner        | :1                 | RecalculateState. newValues. isAvailableValue=True, isReadyValue=True
+23:29:27.860 |V| RiderIncrementalRunner        | :1                 | SetNewState. isAvailableValue=True, isReadyValue=True
+23:29:27.860 |I| IncrementalBuildTrigger       | :1                 | Runner isReady = true
+23:29:27.860 |V| RiderSolutionBuilder          | :1                 | UpdateState change newRunner.IsReady=True
+23:29:27.860 |I| IncrementalBuildTrigger       | :1                 | !myShouldBuild
+23:29:27.860 |V| AggregatedSolutionBuilderConfigurationReloadTracker| :1                 | Set new reloading state False. tracker 
+23:29:27.860 |V| SolutionAnalysisManager       | DaemonThread:52    | <GetFilesToAnalyze>
+23:29:27.876 |V| SolutionAnalysisManager       | DaemonThread:52    | FlushProjectModelChanges: New=0, Modified=0, Removed=0
+23:29:27.876 |V| FileImages                    | DaemonThread:52    | <FileImages.ProcessDirtyFiles> count=0
+23:29:27.876 |V| FileImages                    | DaemonThread:52    | <FileImages.ProcessDirtyModules> count=8
+23:29:27.969 |V| FileImages                    | DaemonThread:52    | <FileImages.SubtractInvalidModuleImages>
+23:29:27.969 |V| FileImages                    | DaemonThread:52    | <FileImages.SubtractLoadedFileImages>
+23:29:27.985 |V| FileImages                    | DaemonThread:52    | <FileImages.ProcessFileImages> 0
+23:29:27.985 |V| FileImages                    | DaemonThread:52    | <FileImages.ProcessModules> 0
+23:29:28.000 |V| FileImages                    | DaemonThread:52    | <FileImages.ClearTouched>
+23:29:28.000 |V| SolutionAnalysisManager       | DaemonThread:52    | <GetFilesToAnalyze> TotalFilesToReanalyze=4
+23:29:28.016 |V| SolutionAnalysisManager       | DaemonThread:52    | <GetFilesToAnalyze> QuickFiles=4 SlowFiles=0
+23:29:28.016 |V| RiderSolutionAnalysisServiceImpl| DaemonThread:52    | Starting invisible analysis of file Navigation.csproj
+23:29:28.016 |V| RiderSolutionAnalysisServiceImpl| DaemonThread:52    | Entry point type: LIBRARY
+23:29:28.032 |V| RiderSolutionAnalysisServiceImpl| DaemonThread:52    | Finished analysis for project file: 4659a235-ad29-42bc-89b3-457005d498eb(Navigation)-7BFF4E67[.NETStandard,Version=v2.0]/f:Navigation.csproj
+23:29:28.032 |V| RiderSolutionAnalysisServiceImpl| DaemonThread:52    | Starting invisible analysis of file build.ps1
+23:29:28.047 |V| RiderSolutionAnalysisServiceImpl| DaemonThread:52    | --Skipped-- analysis of file: fb23825c-9f6f-4325-9472-013a58ecf91e(misc)-13/f:build.ps1/s:..?build.ps1
+23:29:28.047 |V| RiderSolutionAnalysisServiceImpl| DaemonThread:52    | Starting invisible analysis of file build.sh
+23:29:28.047 |V| RiderSolutionAnalysisServiceImpl| DaemonThread:52    | --Skipped-- analysis of file: fb23825c-9f6f-4325-9472-013a58ecf91e(misc)-13/f:build.sh/s:..?build.sh
+23:29:28.047 |V| RiderSolutionAnalysisServiceImpl| DaemonThread:52    | Starting invisible analysis of file README.md
+23:29:28.047 |V| RiderSolutionAnalysisServiceImpl| DaemonThread:52    | --Skipped-- analysis of file: fb23825c-9f6f-4325-9472-013a58ecf91e(misc)-13/f:README.md/s:..?README.md
+23:29:28.047 |V| SolutionAnalysisHost          | DaemonThread:52    | SWEA completed file analysis
+23:29:28.125 |V| SolutionAnalysisHost          | :1                 | Updating procotol completed state from SWEA to True
+23:30:23.550 |V| ConfigFileService             | JetPool(S) #1:11   | DoPurgeAndUpdate, mode = PurgeExpiredOnly
+23:30:23.550 |V| ConfigFileService             | JetPool(S) #1:11   | DoPurgeAndUpdate, mode = PurgeExpiredOnly
+23:30:23.550 |V| ConfigFileService             | JetPool(S) #1:11   | DoPurgeAndUpdate, mode = PurgeExpiredOnly
+23:30:48.218 |I| UnitTestSessionRepository     | :1                 | << (Opening) Loading sessions from persistent storage
+23:30:48.219 |I| UnitTestSessionRepository     | :1                 | << (Closing) Loading sessions from persistent storage
+23:30:52.111 |V| RiderIsApplicationActiveStateTracker| :1                 | Change state IsApplicationActive: False
+23:30:53.778 |V| RiderIsApplicationActiveStateTracker| :1                 | Change state IsApplicationActive: True
+23:30:53.778 |V| ConfigFileService             | JetPool(S) #2:12   | DoPurgeAndUpdate, mode = ForceExpire, UpdateLive
+23:30:53.778 |V| ConfigFileService             | JetPool(S) #7:17   | DoPurgeAndUpdate, mode = ForceExpire, UpdateLive
+23:30:53.778 |V| ConfigFileService             | JetPool(S) #1:11   | DoPurgeAndUpdate, mode = ForceExpire, UpdateLive
+23:30:53.778 |V| ConfigFileService             | JetPool(S) #2:12   | Resetting all entries
+23:30:53.778 |V| ConfigFileService             | JetPool(S) #1:11   | Resetting all entries
+23:30:53.778 |V| ConfigFileService             | JetPool(S) #7:17   | Resetting all entries
+23:31:09.572 |V| RiderIsApplicationActiveStateTracker| :1                 | Change state IsApplicationActive: False
+23:31:23.539 |V| ConfigFileService             | JetPool(S) #1:11   | DoPurgeAndUpdate, mode = PurgeExpiredOnly
+23:31:23.539 |V| ConfigFileService             | JetPool(S) #1:11   | DoPurgeAndUpdate, mode = PurgeExpiredOnly
+23:31:23.539 |V| ConfigFileService             | JetPool(S) #1:11   | DoPurgeAndUpdate, mode = PurgeExpiredOnly
+23:34:22.605 |V| RiderGcCollector              | JetPool(S) #1:11   | UltraGcCollect: 
+Allocated managed memory : 155 MB
+Working set              : 439 MB
+Private memory size      : 384 MB
+Virtual memory size      : 5181 MB
+GC(0)   : 149
+GC(1)   : 45
+GC(2)   : 7
+GC(LOH) : 0
+
