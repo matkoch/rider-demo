@@ -6,6 +6,7 @@ namespace Assistance
 {
     public class LiveTemplates
     {
+        // fake, surround with
         public void Test()
         {
         }
