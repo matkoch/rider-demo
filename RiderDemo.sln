@@ -8,6 +8,8 @@ ProjectSection(SolutionItems) = preProject
 	build.sh = build.sh
 	README.md = README.md
 	backend.log = backend.log
+	.travis.yml = .travis.yml
+	.gitignore = .gitignore
 EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Refactoring", "Refactoring\Refactoring.csproj", "{1115834D-CED4-427F-A989-E9BA423A1BB1}"
