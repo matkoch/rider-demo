@@ -12,7 +12,7 @@ namespace Navigation
             car.Forward (xOffset: 400).Move (new Position (x: 500, y: 0));
 
             dynamic dynamicCar = car;
-            dynamicCar.Move (1, 2);
+//            dynamicCar.Move (1, 2);
 
             object objectCar = car;
             objectCar.Invoke ("Move", 1, 2);
