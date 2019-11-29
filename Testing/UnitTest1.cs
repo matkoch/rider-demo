@@ -46,7 +46,8 @@ namespace Testing
 
             PrintPeople(FilterPeople(GetPeople()));
 
-            PrintPeople(new[] {"Chris", "Maarten", "Matt"});
+            var enumerable = new[] {"Chris", "Maarten", "Matt"};
+            PrintPeople(enumerable);
         }
     }
 }
