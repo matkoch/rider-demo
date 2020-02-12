@@ -40,7 +40,9 @@ namespace Testing
                 => people.Where(x => x.Length <= 4);
 
             void PrintPeople(IEnumerable<string> people)
-                => people.ToList().ForEach(PrintPerson);
+            {
+                people.ToList().ForEach(PrintPerson);
+            }
 
             void PrintPerson(string s1) => Console.WriteLine(s1);
 

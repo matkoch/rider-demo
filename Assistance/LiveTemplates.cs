@@ -17,5 +17,10 @@ namespace Assistance
             {
             }
         }
+
+        public T CreateStub<T>()
+        {
+            return default;
+        }
     }
 }
